@@ -3,21 +3,42 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-url = "https://www.fifa.com/worldcup/statistics/players/goal-scored"
+url_base = "https://www.todapolitica.com/eleicoes-2016/rn/"
 
-fields = ['rank', 'player_name', 'goals_scored', 'assists', 'minutes_played', 'matches_played', 'penalties_scored',
-          'goals_left_foot', 'goals_right_foot', 'headed_goals']
+#fields = ['rank', 'player_name', 'goals_scored', 'assists', 'minutes_played', 'matches_played', 'penalties_scored',
+#         'goals_left_foot', 'goals_right_foot', 'headed_goals']
 
 
 # Inicializa webdriver (**Troque pelo webdriver desejado e o caminho**)
-driver = webdriver.Firefox(executable_path='./geckodriver')
+driver = webdriver.Chrome(executable_path='./chromedriver')
 # Aguarda o browser
 driver.implicitly_wait(30)
 # Entra na URL
-driver.get(url)
+driver.get(url_base)
 
 # Obtém o elemento pai de paginação
-pagination_base = driver.find_element_by_id('goal-scored_paginate')
+alfabeto = driver.find_element_by_css_selector('div.alfabeto')
+
+letters = alfabeto.find_elements_by_tag_name('li')
+letters_disable = alfabeto.find_elements_by_css_selector('li.disabled')
+
+for letter in letters:
+    if letter not in letters_disable:
+        # driver.get(f'https://www.todapolitica.com/eleicoes-2016/rn/{letter.text.lower()}')
+        # driver.implicitly_wait(50)
+        print(f'executando {letter.text}')
+        # letters = alfabeto.find_elements_by_tag_name('li')
+        try:
+            # driver.execute_script("arguments[0].click();", letters[letter])
+            letter.click()
+        except:
+            print('erro')
+            pass
+        # letter.click()
+        driver.implicitly_wait(20)
+
+
+'''
 # Obtém o número de tags <a>
 num_pages = len(pagination_base.find_elements_by_xpath('.//a'))
 
@@ -33,7 +54,7 @@ for page in range(num_pages):
         driver.execute_script("arguments[0].click();", pages[page])
     except:
         pass
-    # page.click()
+    page.click()
     driver.implicitly_wait(2)
 
     rows = goals_table.find_elements_by_tag_name('tr')
@@ -57,3 +78,4 @@ for page in range(num_pages):
 
 # Mostre todos os dados de todos os jogadores
 print(goals)
+'''
