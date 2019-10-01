@@ -1,4 +1,4 @@
-# Web scrapping - Eleições 2016
+# Web scrapping - Resultados das Eleições
 
 ## Configurações
 
