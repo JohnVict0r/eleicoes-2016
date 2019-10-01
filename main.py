@@ -3,6 +3,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import json
+import concurrent.futures
+import threading
+from thread_city import my_thread
 
 url_base = "https://www.todapolitica.com/eleicoes-2016/rn/"
 
@@ -21,7 +24,7 @@ letters_disable_element = alfabeto.find_elements_by_css_selector('li.disabled')
 
 letters= []
 
-citys = []
+citys = dict()
 
 # Pegando as letras habilitadas
 for letter in letters_element:
@@ -38,12 +41,15 @@ for letter in letters:
         city_elements = state.find_elements_by_tag_name('li')
 
         for element in city_elements:
-            
-            info = element.text.split('\n')
-            citys.append({'name': info[0], 'voters': info[1]})
-            
-            #print(f'cidade: {city.find_elements_by_tag_name('span')}')
-            #print(f'eleitores: {city.find_element_by_tag_name('span').text}')
+            url = element.find_element_by_tag_name('a').get_attribute('href')
+            citys[element.find_element_by_tag_name('a').text] = {'voters': element.find_element_by_tag_name('span').text, 'url': url}
+
+
+with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+    executor.map(my_thread, citys.values())
+
+
+print(citys)
 
 
 # Salvando no arquivo
