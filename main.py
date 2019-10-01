@@ -2,11 +2,12 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import json
 
 url_base = "https://www.todapolitica.com/eleicoes-2016/rn/"
 
 # Inicializa webdriver (**Troque pelo webdriver desejado e o caminho**)
-driver = webdriver.Chrome(executable_path='./chromedriver')
+driver = webdriver.Chrome(executable_path='chromedriver')
 # Aguarda o browser
 driver.implicitly_wait(30)
 # Entra na URL
@@ -43,4 +44,11 @@ for letter in letters:
             
             #print(f'cidade: {city.find_elements_by_tag_name('span')}')
             #print(f'eleitores: {city.find_element_by_tag_name('span').text}')
-print(citys)      
+
+
+# Salvando no arquivo
+with open('citys.json', 'w') as arq:
+    json.dump(citys, arq)
+    #TODO adicionar utf-8
+
+# print(citys)      
