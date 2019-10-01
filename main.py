@@ -33,28 +33,22 @@ for letter in letters_element:
 
 for letter in letters:
     driver.get(f'{url_base}{letter}')
-    driver.implicitly_wait(10)
+    driver.implicitly_wait(5)
 
-    state_list = driver.find_elements_by_css_selector('div.lista-estados')
-    
-    for state in state_list:
-        city_elements = state.find_elements_by_tag_name('li')
+    city_list_by_letter = driver.find_element_by_css_selector('div.lista-estados')
+    city_list = city_list_by_letter.find_elements_by_tag_name('li')
 
-        for element in city_elements:
-            url = element.find_element_by_tag_name('a').get_attribute('href')
-            citys[element.find_element_by_tag_name('a').text] = {'voters': element.find_element_by_tag_name('span').text, 'url': url}
+    for city in city_list:
+        url = city.find_element_by_tag_name('a').get_attribute('href')
+        voters = city.find_element_by_tag_name('span').text.strip(' eleitores').replace('.', '')
+        voters = int(voters)
+        citys[city.find_element_by_tag_name('a').text] = {'voters': voters , 'url': url}
 
-
-with concurrent.futures.ThreadPoolExecutor(max_workers=2) as executor:
+with concurrent.futures.ThreadPoolExecutor(max_workers=9) as executor:
     executor.map(my_thread, citys.values())
 
-
 print(citys)
-
 
 # Salvando no arquivo
 with open('citys.json', 'w') as arq:
     json.dump(citys, arq)
-    #TODO adicionar utf-8
-
-# print(citys)      
