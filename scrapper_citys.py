@@ -1,54 +1,53 @@
 from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 import json
-import concurrent.futures
-import threading
-from thread_city import my_thread
 
+# TODO capturar de todos os estados
 url_base = "https://www.todapolitica.com/eleicoes-2016/rn/"
 
 # Inicializa webdriver (**Troque pelo webdriver desejado e o caminho**)
-driver = webdriver.Chrome(executable_path='chromedriver')
+driver = webdriver.Chrome(executable_path='./chromedriver')
 # Aguarda o browser
 driver.implicitly_wait(30)
 # Entra na URL
 driver.get(url_base)
 
-# Obtém o elemento pai de paginação
+# Obtém a lista do alfabeto
 alfabeto = driver.find_element_by_css_selector('div.alfabeto')
 
+# Obtém os elementos que representam as letras
 letters_element = alfabeto.find_elements_by_tag_name('li')
+
+# Obtém os elementos que representam as letras desabilitadas
 letters_disable_element = alfabeto.find_elements_by_css_selector('li.disabled')
 
 letters= []
-
 citys = dict()
 
-# Pegando as letras habilitadas
+# Pegando apenas as letras habilitadas
 for letter in letters_element:
     if letter not in letters_disable_element:
         letters.append(letter.text.lower())
 
+# Pegar as cidades para cada letra habilitada da lista do alfabeto do estado
 for letter in letters:
+    # Navegar para a lista de cidades da letra habilitada
     driver.get(f'{url_base}{letter}')
     driver.implicitly_wait(5)
 
+    # pegando a lista de cidades
     city_list_by_letter = driver.find_element_by_css_selector('div.lista-estados')
     city_list = city_list_by_letter.find_elements_by_tag_name('li')
 
     for city in city_list:
-        url = city.find_element_by_tag_name('a').get_attribute('href')
-        voters = city.find_element_by_tag_name('span').text.strip(' eleitores').replace('.', '')
-        voters = int(voters)
-        citys[city.find_element_by_tag_name('a').text] = {'voters': voters , 'url': url}
+        try:
+            url = city.find_element_by_tag_name('a').get_attribute('href')
+            voters = int(city.find_element_by_tag_name('span').text.strip(' eleitores').replace('.', ''))
+            citys[city.find_element_by_tag_name('a').text] = {'voters': voters , 'url': url}
 
-with concurrent.futures.ThreadPoolExecutor(max_workers=9) as executor:
-    executor.map(my_thread, citys.values())
-
-print(citys)
+        except Exception as e:
+            print(e)
+            pass
 
 # Salvando no arquivo
-with open('citys.json', 'w') as arq:
+with open('dados/pre_citys.json', 'w') as arq:
     json.dump(citys, arq)

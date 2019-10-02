@@ -1,10 +1,9 @@
 import csv,json
 
-with open('citys.json', encoding='utf-8') as arq:
+with open('dados/citys.json', encoding='utf-8') as arq:
     citys = json.load(arq)
 
-
-with open('citys.csv', 'w') as arq_csv:
+with open('dados/citys.csv', 'w') as arq_csv:
     fieldnames=['name','voters', 'url', 'votos_brancos', 'votos_nulos', 'vagas_vereadores']
     writer = csv.DictWriter(arq_csv, fieldnames=fieldnames)
     writer.writeheader()
