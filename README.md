@@ -1,11 +1,5 @@
 # Web scrapping - Resultados das Eleições
 
-## Configurações
-
-`$ pip install -r requirements.txt`
-
-obs.: é necessário ter um driver instalado, por exemplo o 'chromedriver', para ser utilizado pelo `selenium`
-
 ## Sobre o projeto
 
 * `scrapper_citys.py` captura o link e informações sobre as cidades por letra do estado do RN.
@@ -13,6 +7,12 @@ obs.: é necessário ter um driver instalado, por exemplo o 'chromedriver', para
 * `thread_city.py` é uma thread responsável por capturar o resultado de um cidade.
 * `reader.py` fazer a leitura dos dados/arquivos gerados pelos scripts e gera um arquivo .csv melhor para permitir trabalhos futuros.
 * `dados` apresenta os arquivos resultantes do web scrapping
+
+## Configurações
+
+`$ pip install -r requirements.txt`
+
+obs.: é necessário ter um driver instalado, por exemplo o 'chromedriver', para ser utilizado pelo `selenium`
 
 ## Executar
 
