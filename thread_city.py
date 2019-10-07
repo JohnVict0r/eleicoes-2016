@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 def get_city_results(data):
-    print('Executando thread...', data['url'])
+    # print('Executando thread...', data['url'])
 
     # Inicializa webdriver (**Troque pelo webdriver desejado e o caminho**)
     driver = webdriver.Chrome(executable_path='./chromedriver')
@@ -33,11 +33,11 @@ def get_city_results(data):
         driver.close()
 
     driver.close()
-    print('Terminou!')
+    # print('Terminou!')
 
 
-def get_citys_by_letter(data):
-    print('Executando thread...', data['url'])
+def get_cities_by_letter(data):
+    # print('Executando thread...', data['url'])
 
     # Inicializa webdriver (**Troque pelo webdriver desejado e o caminho**)
     driver = webdriver.Chrome(executable_path='./chromedriver')
@@ -47,6 +47,7 @@ def get_citys_by_letter(data):
     try:
         # Navegar para a lista de cidades da letra habilitada
         driver.get(data['url'])
+        
         # pegando a lista de cidades
         city_list_by_letter = driver.find_element_by_css_selector('div.lista-estados')
         city_list = city_list_by_letter.find_elements_by_tag_name('li')
@@ -55,11 +56,11 @@ def get_citys_by_letter(data):
             url = city.find_element_by_tag_name('a').get_attribute('href')
             voters = int(city.find_element_by_tag_name('span').text.strip(' eleitores').replace('.', ''))
             name = city.find_element_by_tag_name('a').text
-            data['citys'].update({name: {'voters': voters, 'url': url}})
+            data['cities'].update({name: {'voters': voters, 'url': url}})
 
     except Exception as e:
         print(e)
         driver.close()
 
     driver.close()
-    print('Terminou!')
+    # print('Terminou!')

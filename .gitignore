@@ -293,3 +293,7 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/code,linux,macos,python,windows,pycharm+all
 
 chromedriver
+
+# Ignores the partial data dirs
+data/ 
+preData/
