@@ -12,9 +12,9 @@ if __name__ == '__main__':
 
         with open(f"./csv_data/electionData_{file.split('_')[1].split('.')[0]}.csv", 'w') as arq_csv:
             fieldnames = [
-                'uf', 'name', 'voters', 
-                'votos_brancos', 'votos_nulos', 
-                'vagas_vereadores'
+                'uf', 'municipio', 'eleitores', 
+                'votosBrancos', 'votosNulos', 
+                'vagasVeriador'
             ]
 
             writer = csv.DictWriter(arq_csv, fieldnames=fieldnames)
@@ -24,11 +24,11 @@ if __name__ == '__main__':
                 for name, data in city['citys'].items():
                     writer.writerow({
                         'uf': file.split('_')[1].split('.')[0],
-                        'name': name, 
-                        'voters': data['voters'], 
-                        'votos_brancos': data['votos_brancos'], 
-                        'votos_nulos': data['votos_nulos'], 
-                        'vagas_vereadores': data['vagas_vereadores']
+                        'municipio': name, 
+                        'eleitores': data['voters'], 
+                        'votosBrancos': data['votos_brancos'], 
+                        'votosNulos': data['votos_nulos'], 
+                        'vagasVeriador': data['vagas_vereadores']
                     })
 
     print('\nDone!')
