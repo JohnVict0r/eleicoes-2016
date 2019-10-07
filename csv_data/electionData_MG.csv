@@ -1,0 +1,854 @@
+uf,name,voters,votos_brancos,votos_nulos,vagas_vereadores
+MG,Abadia dos Dourados,5844,87,118,9
+MG,Abaeté,18486,413,366,9
+MG,Abre Campo,10125,230,196,9
+MG,Acaiaca,3647,31,157,9
+MG,Açucena,8883,113,240,9
+MG,Água Boa,12397,98,292,11
+MG,Água Comprida,2506,13,62,9
+MG,Aguanil,4081,61,97,9
+MG,Águas Formosas,14949,114,391,11
+MG,Águas Vermelhas,10489,85,427,9
+MG,Aimorés,19519,235,302,11
+MG,Aiuruoca,5203,109,160,9
+MG,Alagoa,2550,15,85,9
+MG,Albertina,2730,31,196,9
+MG,Além Paraíba,28302,428,721,13
+MG,Alfenas,58576,2121,1555,12
+MG,Alfredo Vasconcelos,5441,104,172,9
+MG,Almenara,29369,275,1008,13
+MG,Alpercata,6632,73,114,9
+MG,Alpinópolis,15264,315,274,9
+MG,Alterosa,11951,186,210,9
+MG,Alto Caparaó,4186,36,40,9
+MG,Alto Jequitibá,7011,138,173,9
+MG,Alto Rio Doce,10357,166,291,9
+MG,Alvarenga,4430,20,57,9
+MG,Alvinópolis,13346,152,281,11
+MG,Alvorada de Minas,4267,28,79,9
+MG,Amparo do Serra,4731,68,136,9
+MG,Andradas,29128,1500,1356,9
+MG,Andrelândia,9764,179,292,9
+MG,Angelândia,6746,71,207,9
+MG,Antônio Carlos,9578,256,299,9
+MG,Antônio Dias,9102,78,206,9
+MG,Antônio Prado de Minas,1941,5,43,9
+MG,Araçaí,2807,26,60,9
+MG,Aracitaba,2406,22,67,9
+MG,Araçuaí,28354,395,704,11
+MG,Araguari,87433,1870,3040,17
+MG,Arantina,2547,13,43,9
+MG,Araponga,6803,115,212,9
+MG,Araporã,5691,57,138,9
+MG,Arapuá,3201,29,41,9
+MG,Araújos,6507,83,111,9
+MG,Araxá,75628,2411,4114,15
+MG,Arceburgo,7345,191,232,9
+MG,Arcos,30924,956,1114,13
+MG,Areado,11607,315,281,9
+MG,Argirita,2879,20,41,9
+MG,Aricanduva,4652,43,123,9
+MG,Arinos,13813,100,203,9
+MG,Astolfo Dutra,11033,141,168,9
+MG,Ataléia,11940,109,336,9
+MG,Augusto de Lima,4431,50,73,9
+MG,Baependi,15582,330,523,11
+MG,Baldim,7009,71,128,9
+MG,Bambuí,19227,312,386,11
+MG,Bandeira,4544,37,88,9
+MG,Bandeira do Sul,5334,93,96,9
+MG,Barão de Cocais,23225,555,507,11
+MG,Barão de Monte Alto,5652,34,148,9
+MG,Barbacena,97946,4078,6890,15
+MG,Barra Longa,5694,57,169,9
+MG,Barroso,17182,445,405,9
+MG,Bela Vista de Minas,7716,113,171,9
+MG,Belmiro Braga,3099,18,83,9
+MG,Belo Horizonte,1927460,108745,215633,41
+MG,Belo Oriente,19643,240,692,11
+MG,Belo Vale,7386,155,179,9
+MG,Berilo,9689,82,234,9
+MG,Berizal,3850,18,101,9
+MG,Bertópolis,4151,29,91,9
+MG,Betim,278234,10315,16403,23
+MG,Bias Fortes,3695,46,61,9
+MG,Bicas,11571,209,286,9
+MG,Biquinhas,3098,22,34,9
+MG,Boa Esperança,31443,812,1106,13
+MG,Bocaina de Minas,4607,68,179,9
+MG,Bocaiúva,35876,603,735,13
+MG,Bom Despacho,37771,1096,815,9
+MG,Bom Jardim de Minas,5874,56,124,9
+MG,Bom Jesus da Penha,3388,106,86,9
+MG,Bom Jesus do Amparo,4883,74,134,9
+MG,Bom Jesus do Galho,12333,150,285,11
+MG,Bom Repouso,8666,251,487,9
+MG,Bom Sucesso,15353,355,313,11
+MG,Bonfim,6689,153,186,9
+MG,Bonfinópolis de Minas,5147,43,64,9
+MG,Bonito de Minas,7839,52,239,9
+MG,Borda da Mata,13228,360,403,11
+MG,Botelhos,12716,311,289,9
+MG,Botumirim,5400,32,119,9
+MG,Brás Pires,4519,47,113,9
+MG,Brasilândia de Minas,11513,65,128,9
+MG,Brasília de Minas,26616,246,318,13
+MG,Braúnas,4385,38,131,9
+MG,Brazópolis,13040,358,290,9
+MG,Brumadinho,27444,557,800,13
+MG,Bueno Brandão,8901,447,246,9
+MG,Buenópolis,8692,101,193,9
+MG,Bugre,4374,30,50,9
+MG,Buritis,18426,164,310,9
+MG,Buritizeiro,19715,301,819,11
+MG,Cabeceira Grande,5595,57,83,9
+MG,Cabo Verde,9834,189,221,9
+MG,Cachoeira da Prata,3529,30,44,9
+MG,Cachoeira de Minas,9245,251,394,9
+MG,Cachoeira de Pajeú,7091,45,187,9
+MG,Cachoeira Dourada,2207,3,19,9
+MG,Caetanópolis,8247,207,322,9
+MG,Caeté,33606,845,1056,13
+MG,Caiana,4008,62,102,9
+MG,Cajuri,4042,71,392,9
+MG,Caldas,11097,236,381,9
+MG,Camacho,3589,53,73,9
+MG,Camanducaia,16972,541,347,11
+MG,Cambuí,20953,857,1111,9
+MG,Cambuquira,10279,210,388,9
+MG,Campanário,3483,27,110,9
+MG,Campanha,12108,257,347,11
+MG,Campestre,16407,615,499,11
+MG,Campina Verde,15618,140,286,11
+MG,Campo Azul,4017,20,84,9
+MG,Campo Belo,39725,1322,1433,15
+MG,Campo do Meio,10311,108,203,9
+MG,Campo Florido,5954,67,86,9
+MG,Campos Altos,10511,218,167,9
+MG,Campos Gerais,20812,681,533,11
+MG,Cana Verde,4773,94,140,9
+MG,Canaã,4219,84,126,9
+MG,Canápolis,9303,65,103,9
+MG,Candeias,12073,400,401,9
+MG,Cantagalo,3941,48,78,9
+MG,Caparaó,4456,61,72,9
+MG,Capela Nova,4356,85,115,9
+MG,Capelinha,26928,543,582,13
+MG,Capetinga,6021,74,93,9
+MG,Capim Branco,7823,184,153,9
+MG,Capinópolis,11381,110,441,11
+MG,Capitão Andrade,4239,20,59,9
+MG,Capitão Enéas,12358,118,255,9
+MG,Capitólio,7439,117,161,9
+MG,Caputira,7973,147,298,9
+MG,Caraí,15323,149,646,11
+MG,Caranaíba,3144,57,219,9
+MG,Carandaí,19808,849,525,11
+MG,Carangola,25399,524,995,13
+MG,Caratinga,61456,1420,2063,17
+MG,Carbonita,8095,78,150,9
+MG,Careaçu,4996,48,66,9
+MG,Carlos Chagas,16806,166,361,11
+MG,Carmésia,2269,24,65,9
+MG,Carmo da Cachoeira,9881,218,197,9
+MG,Carmo da Mata,9799,145,201,9
+MG,Carmo de Minas,9872,201,224,9
+MG,Carmo do Cajuru,17599,650,710,11
+MG,Carmo do Paranaíba,22038,772,736,11
+MG,Carmo do Rio Claro,15713,234,288,9
+MG,Carmópolis de Minas,13029,229,383,11
+MG,Carneirinho,7760,48,153,9
+MG,Carrancas,3280,81,118,9
+MG,Carvalhópolis,3007,28,48,9
+MG,Carvalhos,4076,59,155,9
+MG,Casa Grande,2538,25,73,9
+MG,Cascalho Rico,3179,23,178,9
+MG,Cássia,14337,256,355,9
+MG,Cataguases,53916,1345,1769,15
+MG,Catas Altas,4622,47,85,9
+MG,Catas Altas da Noruega,3685,39,113,9
+MG,Catuji,7852,69,151,9
+MG,Catuti,4301,30,90,9
+MG,Caxambu,18158,384,381,11
+MG,Cedro do Abaeté,1287,8,38,9
+MG,Central de Minas,6242,46,68,9
+MG,Centralina,7321,56,203,9
+MG,Chácara,2572,18,44,9
+MG,Chalé,5047,41,169,9
+MG,Chapada do Norte,10223,57,185,11
+MG,Chapada Gaúcha,8437,40,147,9
+MG,Chiador,2666,21,69,9
+MG,Cipotânea,5854,80,120,9
+MG,Claraval,4801,66,84,9
+MG,Claro dos Poções,6877,65,112,9
+MG,Cláudio,20161,614,447,11
+MG,Coimbra,6030,158,191,9
+MG,Coluna,7195,58,206,9
+MG,Comendador Gomes,2635,21,35,9
+MG,Comercinho,6950,53,257,9
+MG,Conceição da Aparecida,8061,110,166,9
+MG,Conceição da Barra de Minas,3610,23,482,9
+MG,Conceição das Alagoas,19553,342,538,11
+MG,Conceição das Pedras,2684,26,58,9
+MG,Conceição de Ipanema,3895,40,84,9
+MG,Conceição do Mato Dentro,15846,242,357,11
+MG,Conceição do Pará,5110,63,120,9
+MG,Conceição do Rio Verde,10443,276,231,9
+MG,Conceição dos Ouros,7981,164,161,9
+MG,Cônego Marinho,5868,53,123,9
+MG,Confins,6126,90,225,9
+MG,Congonhal,8675,126,158,9
+MG,Congonhas,40233,1102,1421,13
+MG,Congonhas do Norte,4218,70,210,9
+MG,Conquista,5325,51,80,9
+MG,Conselheiro Lafaiete,91750,4329,7668,13
+MG,Conselheiro Pena,17072,179,342,11
+MG,Consolação,1883,14,34,9
+MG,Contagem,456933,27650,59089,21
+MG,Coqueiral,7901,170,159,9
+MG,Coração de Jesus,21561,208,772,11
+MG,Cordisburgo,7238,88,148,9
+MG,Cordislândia,2683,18,23,9
+MG,Corinto,20209,291,378,11
+MG,Coroaci,9632,102,242,9
+MG,Coromandel,23450,289,331,11
+MG,Coronel Fabriciano,81039,2273,2922,17
+MG,Coronel Murta,7206,77,155,9
+MG,Coronel Pacheco,2697,29,59,9
+MG,Coronel Xavier Chaves,2858,61,52,9
+MG,Córrego Danta,3185,33,64,9
+MG,Córrego do Bom Jesus,4060,34,106,9
+MG,Córrego Fundo,5211,70,123,9
+MG,Córrego Novo,3234,29,47,9
+MG,Couto de Magalhães de Minas,4038,48,121,9
+MG,Crisólita,5076,23,186,9
+MG,Cristais,8329,155,166,9
+MG,Cristália,5207,17,57,9
+MG,Cristiano Otoni,4343,117,227,9
+MG,Cristina,8266,122,220,9
+MG,Crucilândia,5111,94,104,9
+MG,Cruzeiro da Fortaleza,4140,24,38,9
+MG,Cruzília,12457,303,230,9
+MG,Cuparaque,4353,17,90,9
+MG,Curral de Dentro,6159,63,127,9
+MG,Curvelo,56718,2265,1697,15
+MG,Datas,4887,45,83,9
+MG,Delfim Moreira,6773,105,124,9
+MG,Delfinópolis,6334,61,140,9
+MG,Delta,6410,67,128,9
+MG,Descoberto,4568,40,106,9
+MG,Desterro de Entre Rios,5955,165,165,9
+MG,Desterro do Melo,3264,31,158,9
+MG,Diamantina,36215,869,1012,13
+MG,Diogo de Vasconcelos,3501,30,143,9
+MG,Dionísio,7325,76,162,9
+MG,Divinésia,4041,39,131,9
+MG,Divino,15603,244,336,11
+MG,Divino das Laranjeiras,4788,29,97,9
+MG,Divinolândia de Minas,6464,71,186,9
+MG,Divinópolis,158937,8301,12496,17
+MG,Divisa Alegre,5048,30,78,9
+MG,Divisa Nova,4961,86,93,9
+MG,Divisópolis,6415,59,112,9
+MG,Dom Bosco,3521,19,53,9
+MG,Dom Cavati,5006,50,125,9
+MG,Dom Joaquim,3985,53,84,9
+MG,Dom Silvério,4590,73,103,9
+MG,Dom Viçoso,2861,26,60,9
+MG,Dona Eusébia,5393,62,86,9
+MG,Dores de Campos,7703,136,196,9
+MG,Dores de Guanhães,5140,51,143,9
+MG,Dores do Indaiá,11439,187,196,9
+MG,Dores do Turvo,5197,55,90,9
+MG,Doresópolis,1975,21,42,9
+MG,Douradoquara,1844,7,24,9
+MG,Durandé,6581,87,179,9
+MG,Elói Mendes,19685,510,1125,11
+MG,Engenheiro Caldas,7718,104,197,9
+MG,Engenheiro Navarro,6362,60,218,9
+MG,Entre Folhas,5870,64,112,9
+MG,Entre Rios de Minas,11944,254,384,9
+MG,Ervália,16472,535,417,11
+MG,Esmeraldas,45206,1607,1637,11
+MG,Espera Feliz,16429,424,1208,11
+MG,Espinosa,20975,206,965,13
+MG,Espírito Santo do Dourado,4575,97,127,9
+MG,Estiva,8866,249,283,9
+MG,Estrela Dalva,2669,20,41,9
+MG,Estrela do Indaiá,3102,30,48,9
+MG,Estrela do Sul,6012,61,123,9
+MG,Eugenópolis,8614,87,160,9
+MG,Ewbank da Câmara,4110,67,76,9
+MG,Extrema,28333,891,1104,11
+MG,Fama,2990,34,47,9
+MG,Faria Lemos,3139,31,86,9
+MG,Felício dos Santos,4981,36,138,9
+MG,Felisburgo,5623,29,165,9
+MG,Felixlândia,11986,249,260,9
+MG,Fernandes Tourinho,2904,22,98,9
+MG,Ferros,8850,123,151,9
+MG,Fervedouro,8644,149,323,9
+MG,Florestal,6180,105,298,9
+MG,Formiga,54392,2185,2305,10
+MG,Formoso,6012,23,113,9
+MG,Fortaleza de Minas,3519,64,97,9
+MG,Fortuna de Minas,2855,31,43,9
+MG,Francisco Badaró,7592,58,134,9
+MG,Francisco Dumont,4644,40,176,9
+MG,Francisco Sá,19195,226,470,11
+MG,Franciscópolis,5250,43,149,9
+MG,Frei Gaspar,5317,36,205,9
+MG,Frei Inocêncio,7219,61,76,9
+MG,Frei Lagonegro,3086,23,69,9
+MG,Fronteira,10492,97,142,9
+MG,Fronteira dos Vales,4448,20,110,9
+MG,Fruta de Leite,5262,29,205,9
+MG,Frutal,41597,888,943,15
+MG,Funilândia,4488,42,107,9
+MG,Galiléia,5466,35,68,9
+MG,Gameleiras,4403,21,140,9
+MG,Glaucilândia,3676,29,46,9
+MG,Goiabeira,3183,15,68,9
+MG,Goianá,3952,50,104,9
+MG,Gonçalves,3905,60,109,9
+MG,Gonzaga,4827,69,146,9
+MG,Gouveia,10740,193,197,9
+MG,Governador Valadares,203794,6438,7426,21
+MG,Grão Mogol,12201,96,536,11
+MG,Grupiara,1590,12,89,9
+MG,Guanhães,24680,576,739,13
+MG,Guapé,10685,233,232,9
+MG,Guaraciaba,8453,100,299,9
+MG,Guaraciama,4551,41,88,9
+MG,Guaranésia,15355,405,425,11
+MG,Guarani,7288,78,186,9
+MG,Guarará,3605,56,70,9
+MG,Guarda-Mor,6044,90,115,9
+MG,Guaxupé,38356,1575,1757,13
+MG,Guidoval,5894,97,179,9
+MG,Guimarânia,6645,108,168,9
+MG,Guiricema,7219,97,155,9
+MG,Gurinhatã,5386,38,67,9
+MG,Heliodora,5196,80,170,9
+MG,Iapu,8535,87,122,9
+MG,Ibertioga,4839,65,118,9
+MG,Ibiá,17531,306,391,11
+MG,Ibiaí,6606,48,357,9
+MG,Ibiracatu,6003,30,121,9
+MG,Ibiraci,9064,141,178,9
+MG,Ibirité,110476,5006,6199,15
+MG,Ibitiúra de Minas,3146,31,67,9
+MG,Ibituruna,2598,15,35,9
+MG,Icaraí de Minas,7901,35,58,9
+MG,Igarapé,28165,852,857,13
+MG,Igaratinga,7470,152,125,9
+MG,Iguatama,6737,116,102,9
+MG,Ijaci,5198,106,114,9
+MG,Ilicínea,9686,204,140,9
+MG,Imbé de Minas,6185,34,813,9
+MG,Inconfidentes,6454,123,143,9
+MG,Indaiabira,6481,37,135,9
+MG,Indianópolis,4906,67,155,9
+MG,Ingaí,3018,56,83,9
+MG,Inhapim,19986,243,459,11
+MG,Inhaúma,5396,82,93,9
+MG,Inimutaba,6045,110,136,9
+MG,Ipaba,14297,120,175,11
+MG,Ipanema,15183,222,269,11
+MG,Ipatinga,183169,6248,7067,19
+MG,Ipiaçu,3580,20,85,9
+MG,Ipuiúna,7769,116,129,9
+MG,Iraí de Minas,5501,43,85,9
+MG,Itabira,89768,1981,2996,17
+MG,Itabirinha,8892,91,214,9
+MG,Itabirito,39486,1232,1387,13
+MG,Itacambira,4934,33,69,9
+MG,Itacarambi,13689,130,373,11
+MG,Itaguara,9961,405,1193,9
+MG,Itaipé,8777,67,213,9
+MG,Itajubá,71828,2661,3818,17
+MG,Itamarandiba,24323,356,755,13
+MG,Itamarati de Minas,3762,31,76,9
+MG,Itambacuri,18485,214,410,11
+MG,Itambé do Mato Dentro,2591,27,84,9
+MG,Itamogi,9490,171,293,9
+MG,Itamonte,11301,209,236,9
+MG,Itanhandu,12050,276,299,9
+MG,Itanhomi,10203,103,211,9
+MG,Itaobim,16882,181,360,11
+MG,Itapagipe,10292,69,124,9
+MG,Itapecerica,17550,373,587,11
+MG,Itapeva,7105,148,181,9
+MG,Itatiaiuçu,9438,164,361,9
+MG,Itaú de Minas,12660,209,311,9
+MG,Itaúna,68004,2421,2932,17
+MG,Itaverava,5754,114,250,9
+MG,Itinga,11432,98,217,11
+MG,Itueta,4590,44,127,9
+MG,Ituiutaba,77519,1783,1567,17
+MG,Itumirim,5928,164,138,9
+MG,Iturama,29212,328,475,13
+MG,Itutinga,3786,67,104,9
+MG,Jaboticatubas,13737,227,246,11
+MG,Jacinto,9137,59,173,9
+MG,Jacuí,6501,107,126,9
+MG,Jacutinga,17922,309,407,11
+MG,Jaguaraçu,3091,38,53,9
+MG,Jaíba,23463,315,628,13
+MG,Jampruca,4173,33,99,9
+MG,Janaúba,51111,1166,1409,15
+MG,Januária,48816,849,1162,15
+MG,Japaraíba,3374,42,81,9
+MG,Japonvar,8142,46,149,9
+MG,Jeceaba,5908,68,189,9
+MG,Jenipapo de Minas,5942,39,168,9
+MG,Jequeri,10390,173,262,9
+MG,Jequitaí,6970,61,196,9
+MG,Jequitibá,5687,70,110,9
+MG,Jequitinhonha,18152,197,403,11
+MG,Jesuânia,4286,52,94,9
+MG,Joaíma,11198,113,596,9
+MG,Joanésia,5078,77,125,9
+MG,João Monlevade,59074,2337,2956,15
+MG,João Pinheiro,36993,535,1305,13
+MG,Joaquim Felício,3314,14,71,9
+MG,Jordânia,8173,50,185,9
+MG,José Gonçalves de Minas,4028,11,89,9
+MG,José Raydan,4365,35,124,9
+MG,Josenópolis,3808,21,131,9
+MG,Juatuba,20343,431,553,9
+MG,Juiz de Fora,395425,15325,35029,19
+MG,Juramento,4243,21,43,9
+MG,Juruaia,8072,102,85,9
+MG,Juvenília,5743,29,141,9
+MG,Ladainha,12706,108,547,11
+MG,Lagamar,6543,68,70,9
+MG,Lagoa da Prata,34614,1400,1025,9
+MG,Lagoa dos Patos,3994,21,77,9
+MG,Lagoa Dourada,9706,246,353,9
+MG,Lagoa Formosa,13727,266,294,11
+MG,Lagoa Grande,7191,53,101,9
+MG,Lagoa Santa,42432,1352,1912,15
+MG,Lajinha,15944,267,532,11
+MG,Lambari,16455,234,554,11
+MG,Lamim,3398,54,179,9
+MG,Laranjal,5684,62,167,9
+MG,Lassance,5994,53,267,9
+MG,Lavras,71345,3234,4340,17
+MG,Leandro Ferreira,3302,41,74,9
+MG,Leme do Prado,4109,11,76,9
+MG,Leopoldina,40502,790,868,15
+MG,Liberdade,4428,77,175,9
+MG,Lima Duarte,14004,228,350,11
+MG,Limeira do Oeste,5664,57,99,9
+MG,Lontra,7981,70,171,9
+MG,Luisburgo,5436,58,86,9
+MG,Luislândia,6236,33,77,9
+MG,Luminárias,4413,60,71,9
+MG,Luz,14815,293,251,11
+MG,Machacalis,5901,58,110,9
+MG,Machado,29481,964,822,13
+MG,Madre de Deus de Minas,4068,88,119,9
+MG,Malacacheta,15689,139,1232,11
+MG,Mamonas,5758,13,50,9
+MG,Manga,16333,141,2263,9
+MG,Manhuaçu,56091,1444,2059,17
+MG,Manhumirim,16604,301,313,11
+MG,Mantena,19611,226,330,11
+MG,Mar de Espanha,9439,131,253,9
+MG,Maravilhas,6130,47,99,9
+MG,Maria da Fé,12369,288,531,9
+MG,Mariana,46560,1010,1687,15
+MG,Marilac,4158,63,141,9
+MG,Mário Campos,11206,250,295,9
+MG,Maripá de Minas,3024,25,83,9
+MG,Marliéria,4223,46,47,9
+MG,Marmelópolis,2791,46,76,9
+MG,Martinho Campos,11292,230,277,9
+MG,Martins Soares,6875,89,116,9
+MG,Mata Verde,6232,47,177,9
+MG,Materlândia,4559,51,110,9
+MG,Mateus Leme,23368,816,1276,9
+MG,Mathias Lobato,3125,18,61,9
+MG,Matias Barbosa,11536,309,402,9
+MG,Matias Cardoso,6739,50,176,9
+MG,Matipó,15196,275,377,11
+MG,Mato Verde,10656,124,212,9
+MG,Matozinhos,29063,1085,1095,13
+MG,Matutina,3572,38,221,9
+MG,Medeiros,3119,44,49,9
+MG,Medina,16477,206,587,11
+MG,Mendes Pimentel,5415,44,114,9
+MG,Mercês,8472,134,220,9
+MG,Mesquita,5558,100,207,9
+MG,Minas Novas,23033,219,410,13
+MG,Minduri,3395,26,66,9
+MG,Mirabela,11154,88,192,9
+MG,Miradouro,7645,143,260,9
+MG,Miraí,10555,103,301,9
+MG,Miravânia,4055,16,84,9
+MG,Moeda,5462,50,132,9
+MG,Moema,6635,80,92,9
+MG,Monjolos,2417,18,75,9
+MG,Monsenhor Paulo,6787,100,164,9
+MG,Montalvânia,13209,79,1716,11
+MG,Monte Alegre de Minas,15492,243,304,11
+MG,Monte Azul,17935,128,456,11
+MG,Monte Belo,10807,236,241,9
+MG,Monte Carmelo,35835,874,909,9
+MG,Monte Formoso,4507,23,93,9
+MG,Monte Santo de Minas,17280,427,463,11
+MG,Monte Sião,17659,491,500,9
+MG,Montes Claros,262496,7702,20905,23
+MG,Montezuma,5615,44,367,9
+MG,Morada Nova de Minas,7549,85,136,9
+MG,Morro da Garça,2647,21,55,9
+MG,Morro do Pilar,3450,31,101,9
+MG,Munhoz,6065,120,490,9
+MG,Muriaé,77046,1680,2578,17
+MG,Mutum,21204,346,658,11
+MG,Muzambinho,17614,453,667,11
+MG,Nacip Raydan,3150,17,58,9
+MG,Nanuque,31168,411,582,13
+MG,Naque,5501,73,100,9
+MG,Natalândia,3021,20,31,9
+MG,Natércia,4211,80,105,9
+MG,Nazareno,6308,121,121,9
+MG,Nepomuceno,20561,675,1147,11
+MG,Ninheira,8073,122,266,9
+MG,Nova Belém,3296,18,59,9
+MG,Nova Era,15199,308,394,9
+MG,Nova Lima,67756,2223,4093,10
+MG,Nova Módica,3295,29,95,9
+MG,Nova Ponte,11539,94,201,9
+MG,Nova Porteirinha,5089,56,217,9
+MG,Nova Resende,12304,209,214,9
+MG,Nova Serrana,51050,1927,1055,13
+MG,Nova União,5516,96,104,9
+MG,Novo Cruzeiro,24581,224,521,13
+MG,Novo Oriente de Minas,9071,88,247,9
+MG,Novorizonte,4559,34,159,9
+MG,Olaria,2156,19,47,9
+MG,Olhos D'Água,5178,24,83,9
+MG,Olímpio Noronha,2538,36,80,9
+MG,Oliveira,32489,1042,1112,13
+MG,Oliveira Fortes,2147,29,83,9
+MG,Onça de Pitangui,3289,34,41,9
+MG,Oratórios,4382,50,100,9
+MG,Orizânia,6582,58,233,9
+MG,Ouro Branco,29454,854,1188,9
+MG,Ouro Fino,25085,849,831,11
+MG,Ouro Preto,60425,1548,2470,15
+MG,Ouro Verde de Minas,6802,59,281,9
+MG,Padre Carvalho,5015,26,168,9
+MG,Padre Paraíso,14573,127,425,11
+MG,Pai Pedro,4990,48,122,9
+MG,Paineiras,4224,37,67,9
+MG,Pains,6755,83,118,9
+MG,Paiva,1708,13,22,9
+MG,Palma,5437,50,167,9
+MG,Palmópolis,6461,47,426,9
+MG,Papagaios,11515,124,180,9
+MG,Pará de Minas,61097,2047,2991,17
+MG,Paracatu,63877,2225,1580,17
+MG,Paraguaçu,16843,414,268,9
+MG,Paraisópolis,16251,478,573,9
+MG,Paraopeba,18878,449,548,11
+MG,Passa Quatro,13089,438,990,9
+MG,Passa Tempo,7473,165,271,9
+MG,Passa Vinte,2126,12,48,9
+MG,Passabém,1713,20,49,9
+MG,Passos,79669,3564,3521,11
+MG,Patis,5014,30,117,9
+MG,Patos de Minas,108071,4663,4184,17
+MG,Patrocínio,63006,2013,2116,15
+MG,Patrocínio do Muriaé,5377,42,103,9
+MG,Paula Cândido,7744,116,209,9
+MG,Paulistas,4192,63,118,9
+MG,Pavão,6225,58,257,9
+MG,Peçanha,13524,133,387,11
+MG,Pedra Azul,19168,190,429,11
+MG,Pedra Bonita,5150,51,121,9
+MG,Pedra do Anta,3656,37,108,9
+MG,Pedra do Indaiá,3530,47,56,9
+MG,Pedra Dourada,2710,21,57,9
+MG,Pedralva,9627,260,284,9
+MG,Pedras de Maria da Cruz,8022,46,168,9
+MG,Pedrinópolis,3158,21,30,9
+MG,Pedro Leopoldo,46739,1864,2043,10
+MG,Pedro Teixeira,2082,13,27,9
+MG,Pequeri,3194,26,72,9
+MG,Pequi,3677,35,59,9
+MG,Perdigão,7922,154,175,9
+MG,Perdizes,11804,139,205,9
+MG,Perdões,16759,540,591,9
+MG,Periquito,6582,55,135,9
+MG,Pescador,3639,29,87,9
+MG,Piau,2705,18,74,9
+MG,Piedade de Caratinga,7354,110,122,9
+MG,Piedade de Ponte Nova,3945,39,79,9
+MG,Piedade do Rio Grande,4095,66,123,9
+MG,Piedade dos Gerais,4763,96,73,9
+MG,Pimenta,7091,139,158,9
+MG,Pingo D'Água,4363,27,80,9
+MG,Pintópolis,6368,44,81,9
+MG,Piracema,6029,124,155,9
+MG,Pirajuba,4085,26,60,9
+MG,Piranga,13546,267,360,11
+MG,Piranguçu,4781,63,178,9
+MG,Piranguinho,6946,165,200,9
+MG,Pirapetinga,9470,121,323,9
+MG,Pirapora,41109,678,1062,15
+MG,Piraúba,9573,109,189,9
+MG,Pitangui,20689,406,515,9
+MG,Piumhi,25513,721,1088,9
+MG,Planura,8459,68,134,9
+MG,Poço Fundo,12795,354,300,9
+MG,Poços de Caldas,115960,6250,10767,15
+MG,Pocrane,7602,59,119,9
+MG,Pompéu,23418,533,441,9
+MG,Ponte Nova,43215,1350,1329,13
+MG,Ponto Chique,3883,17,75,9
+MG,Ponto dos Volantes,8794,51,226,9
+MG,Porteirinha,31269,485,567,13
+MG,Porto Firme,8917,157,244,9
+MG,Poté,12754,120,431,11
+MG,Pouso Alegre,100087,3965,5304,15
+MG,Pouso Alto,5721,112,168,9
+MG,Prados,6831,250,268,9
+MG,Prata,21028,351,285,11
+MG,Pratápolis,7642,148,225,9
+MG,Pratinha,2888,25,49,9
+MG,Presidente Bernardes,5680,52,128,9
+MG,Presidente Juscelino,4348,38,83,9
+MG,Presidente Kubitschek,2758,24,68,9
+MG,Presidente Olegário,16545,240,355,11
+MG,Prudente de Morais,7333,225,257,9
+MG,Quartel Geral,3395,27,58,9
+MG,Queluzito,2411,29,46,9
+MG,Raposos,12649,267,654,9
+MG,Raul Soares,17826,272,543,11
+MG,Recreio,7897,71,158,9
+MG,Reduto,5740,62,785,9
+MG,Resende Costa,9004,229,274,9
+MG,Resplendor,13429,129,236,11
+MG,Ressaquinha,4135,51,87,9
+MG,Riachinho,5469,29,51,9
+MG,Riacho dos Machados,7615,75,191,9
+MG,Ribeirão das Neves,196133,12252,12995,14
+MG,Ribeirão Vermelho,3275,55,123,9
+MG,Rio Acima,8122,114,238,9
+MG,Rio Casca,11621,188,252,9
+MG,Rio do Prado,4320,35,124,9
+MG,Rio Doce,2330,31,75,9
+MG,Rio Espera,5320,97,136,9
+MG,Rio Manso,4575,54,101,9
+MG,Rio Novo,7200,111,301,9
+MG,Rio Paranaíba,10098,233,241,9
+MG,Rio Pardo de Minas,21135,181,544,11
+MG,Rio Piracicaba,12591,232,322,9
+MG,Rio Pomba,14014,336,339,9
+MG,Rio Preto,5210,61,135,9
+MG,Rio Vermelho,11064,219,324,9
+MG,Ritápolis,4532,72,124,9
+MG,Rochedo de Minas,2431,24,59,9
+MG,Rodeiro,6399,96,103,9
+MG,Romaria,2897,33,43,9
+MG,Rosário da Limeira,5075,63,112,9
+MG,Rubelita,7968,58,216,9
+MG,Rubim,6757,64,268,9
+MG,Sabará,90539,4379,5417,15
+MG,Sabinópolis,12454,297,394,9
+MG,Sacramento,19452,330,382,9
+MG,Salinas,31215,512,1310,13
+MG,Salto da Divisa,4975,28,203,9
+MG,Santa Bárbara,22948,403,478,11
+MG,Santa Bárbara do Leste,7155,103,142,9
+MG,Santa Bárbara do Monte Verde,2967,26,42,9
+MG,Santa Bárbara do Tugúrio,4324,84,176,9
+MG,Santa Cruz de Minas,6564,172,200,9
+MG,Santa Cruz de Salinas,4442,35,151,9
+MG,Santa Cruz do Escalvado,4902,46,108,9
+MG,Santa Efigênia de Minas,4117,85,183,9
+MG,Santa Fé de Minas,3478,14,47,9
+MG,Santa Helena de Minas,4935,27,106,9
+MG,Santa Juliana,9134,185,160,9
+MG,Santa Luzia,154877,8707,10608,17
+MG,Santa Margarida,12439,172,263,11
+MG,Santa Maria de Itabira,8718,190,404,9
+MG,Santa Maria do Salto,4473,30,118,9
+MG,Santa Maria do Suaçuí,12665,142,690,9
+MG,Santa Rita de Caldas,7203,90,193,9
+MG,Santa Rita de Ibitipoca,3290,35,117,9
+MG,Santa Rita de Jacutinga,4148,38,115,9
+MG,Santa Rita de Minas,6011,73,170,9
+MG,Santa Rita do Itueto,4808,41,149,9
+MG,Santa Rita do Sapucaí,29539,979,879,13
+MG,Santa Rosa da Serra,3424,26,56,9
+MG,Santa Vitória,16218,133,319,11
+MG,Santana da Vargem,5960,100,202,9
+MG,Santana de Cataguases,3022,18,34,9
+MG,Santana de Pirapama,7460,114,111,9
+MG,Santana do Deserto,3344,17,62,9
+MG,Santana do Garambéu,2210,21,41,9
+MG,Santana do Jacaré,4037,78,236,9
+MG,Santana do Manhuaçu,7209,57,146,9
+MG,Santana do Paraíso,20334,395,410,11
+MG,Santana do Riacho,5146,63,76,9
+MG,Santana dos Montes,3898,68,58,9
+MG,Santo Antônio do Amparo,13795,381,262,11
+MG,Santo Antônio do Aventureiro,3749,36,691,9
+MG,Santo Antônio do Grama,4052,68,61,9
+MG,Santo Antônio do Itambé,3974,43,163,9
+MG,Santo Antônio do Jacinto,9402,79,352,9
+MG,Santo Antônio do Monte,19415,508,534,11
+MG,Santo Antônio do Retiro,6007,51,246,9
+MG,Santo Antônio do Rio Abaixo,2033,22,67,9
+MG,Santo Hipólito,2819,27,71,9
+MG,Santos Dumont,39074,1325,1880,13
+MG,São Bento Abade,3895,70,211,9
+MG,São Brás do Suaçuí,3543,67,90,9
+MG,São Domingos das Dores,4834,74,106,9
+MG,São Domingos do Prata,13830,263,409,11
+MG,São Félix de Minas,3678,21,91,9
+MG,São Francisco,40513,356,702,15
+MG,São Francisco de Paula,5854,120,96,9
+MG,São Francisco de Sales,4883,37,57,9
+MG,São Francisco do Glória,4422,47,132,9
+MG,São Geraldo,6764,140,150,9
+MG,São Geraldo da Piedade,4048,56,89,9
+MG,São Geraldo do Baixio,3135,18,33,9
+MG,São Gonçalo do Abaeté,5047,35,45,9
+MG,São Gonçalo do Pará,8326,133,194,9
+MG,São Gonçalo do Rio Abaixo,10747,87,174,9
+MG,São Gonçalo do Rio Preto,3033,37,81,9
+MG,São Gonçalo do Sapucaí,18693,289,341,11
+MG,São Gotardo,25593,791,591,13
+MG,São João Batista do Glória,6152,90,121,9
+MG,São João da Lagoa,4795,51,62,9
+MG,São João da Mata,3223,36,96,9
+MG,São João da Ponte,22659,184,577,11
+MG,São João das Missões,8830,50,357,9
+MG,São João Del Rei,66441,2720,4616,13
+MG,São João do Manhuaçu,8711,76,122,9
+MG,São João do Manteninha,5217,33,83,9
+MG,São João do Oriente,7139,117,148,9
+MG,São João do Pacuí,3877,23,56,9
+MG,São João do Paraíso,17154,340,682,11
+MG,São João Evangelista,12304,156,290,11
+MG,São João Nepomuceno,20455,308,396,9
+MG,São Joaquim de Bicas,19067,443,520,11
+MG,São José da Barra,6294,80,132,9
+MG,São José da Lapa,17272,497,635,9
+MG,São José da Safira,4090,18,110,9
+MG,São José da Varginha,3617,44,119,9
+MG,São José do Alegre,3773,60,105,9
+MG,São José do Divino,3337,19,109,9
+MG,São José do Goiabal,4807,51,97,9
+MG,São José do Jacuri,5197,87,186,9
+MG,São José do Mantimento,2911,13,84,9
+MG,São Lourenço,33042,819,1155,13
+MG,São Miguel do Anta,6076,99,189,9
+MG,São Pedro da União,4370,67,102,9
+MG,São Pedro do Suaçuí,4646,42,81,9
+MG,São Pedro dos Ferros,6942,107,160,9
+MG,São Romão,7007,48,127,9
+MG,São Roque de Minas,5584,80,118,9
+MG,São Sebastião da Bela Vista,5268,41,108,9
+MG,São Sebastião da Vargem Alegre,2438,22,46,9
+MG,São Sebastião do Anta,5505,38,121,9
+MG,São Sebastião do Maranhão,9121,54,235,9
+MG,São Sebastião do Oeste,7103,111,130,9
+MG,São Sebastião do Paraíso,50192,1421,1951,10
+MG,São Sebastião do Rio Preto,1621,13,42,9
+MG,São Sebastião do Rio Verde,2005,22,49,9
+MG,São Thomé das Letras,4312,88,107,9
+MG,São Tiago,8709,268,310,9
+MG,São Tomás de Aquino,5994,84,106,9
+MG,São Vicente de Minas,5809,92,126,9
+MG,Sapucaí-Mirim,5491,61,97,9
+MG,Sardoá,4949,82,128,9
+MG,Sarzedo,19924,570,658,9
+MG,Sem Peixe,3582,25,74,9
+MG,Senador Amaral,5003,86,78,9
+MG,Senador Cortes,2348,20,50,9
+MG,Senador Firmino,6468,69,117,9
+MG,Senador José Bento,2093,23,46,9
+MG,Senador Modestino Gonçalves,4762,46,125,9
+MG,Senhora de Oliveira,5427,100,117,9
+MG,Senhora do Porto,3310,40,153,9
+MG,Senhora dos Remédios,7898,78,170,9
+MG,Sericita,6574,67,145,9
+MG,Seritinga,1784,24,55,9
+MG,Serra Azul de Minas,3834,56,154,9
+MG,Serra da Saudade,959,0,22,9
+MG,Serra do Salitre,8992,159,153,9
+MG,Serra dos Aimorés,5786,51,156,9
+MG,Serrania,6663,147,143,9
+MG,Serranópolis de Minas,3917,25,94,9
+MG,Serranos,1954,22,46,9
+MG,Serro,16868,275,528,11
+MG,Sete Lagoas,160414,8582,11446,17
+MG,Setubinha,8820,78,232,9
+MG,Silveirânia,2639,26,41,9
+MG,Silvianópolis,4879,84,149,9
+MG,Simão Pereira,2956,31,64,9
+MG,Simonésia,15005,325,348,11
+MG,Sobrália,4589,61,93,9
+MG,Soledade de Minas,5130,79,212,9
+MG,Tabuleiro,4429,61,130,9
+MG,Taiobeiras,24948,342,947,13
+MG,Taparuba,3156,25,95,9
+MG,Tapira,4162,14,65,9
+MG,Tapiraí,1676,12,25,9
+MG,Taquaraçu de Minas,4479,51,93,9
+MG,Tarumirim,10597,105,267,9
+MG,Teixeiras,10321,183,264,9
+MG,Teófilo Otoni,103283,2139,5333,19
+MG,Timóteo,60900,1432,1766,15
+MG,Tiradentes,6350,102,179,9
+MG,Tiros,6115,103,186,9
+MG,Tocantins,13309,277,399,11
+MG,Tocos do Moji,3851,72,90,9
+MG,Toledo,5823,73,157,9
+MG,Tombos,7268,85,141,9
+MG,Três Corações,55558,1955,2718,10
+MG,Três Marias,23387,332,581,13
+MG,Três Pontas,43408,1501,750,11
+MG,Tumiritinga,5640,29,97,9
+MG,Tupaciguara,19980,389,336,11
+MG,Turmalina,14921,163,245,11
+MG,Turvolândia,4120,95,86,9
+MG,Ubá,69602,3083,3272,11
+MG,Ubaí,9261,72,161,9
+MG,Ubaporanga,10278,130,228,9
+MG,Uberaba,224864,8384,16842,14
+MG,Uberlândia,478250,19829,27683,27
+MG,Umburatiba,2580,16,93,9
+MG,Unaí,60274,1191,1340,15
+MG,União de Minas,2932,6,22,9
+MG,Uruana de Minas,3184,30,44,9
+MG,Urucânia,8644,171,270,9
+MG,Urucuia,7297,34,118,9
+MG,Vargem Alegre,6699,67,321,9
+MG,Vargem Bonita,2396,17,46,9
+MG,Vargem Grande do Rio Pardo,4006,22,100,9
+MG,Varginha,98489,4470,3769,15
+MG,Varjão de Minas,5750,62,56,9
+MG,Várzea da Palma,27595,399,513,13
+MG,Varzelândia,15846,134,376,11
+MG,Vazante,16375,220,480,11
+MG,Verdelândia,6754,57,142,9
+MG,Veredinha,4969,26,124,9
+MG,Veríssimo,2932,18,38,9
+MG,Vermelho Novo,4769,56,173,9
+MG,Vespasiano,78443,2944,3822,17
+MG,Viçosa,56025,2240,2225,15
+MG,Vieiras,3334,31,89,9
+MG,Virgem da Lapa,10393,85,284,9
+MG,Virgínia,7378,106,224,9
+MG,Virginópolis,8613,143,229,9
+MG,Virgolândia,4355,44,122,9
+MG,Visconde do Rio Branco,30058,782,1137,9
+MG,Volta Grande,4864,35,81,9
+MG,Wenceslau Braz,2990,34,79,9

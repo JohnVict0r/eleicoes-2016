@@ -1,0 +1,400 @@
+uf,name,voters,votos_brancos,votos_nulos,vagas_vereadores
+PR,Abatiá,6078,99,75,9
+PR,Adrianópolis,4931,43,103,9
+PR,Agudos do Sul,6692,72,123,9
+PR,Almirante Tamandaré,61531,2941,2408,15
+PR,Altamira do Paraná,3280,28,107,9
+PR,Alto Paraíso,3176,17,31,9
+PR,Alto Paraná,10325,193,210,9
+PR,Alto Piquiri,7459,157,144,9
+PR,Altônia,15109,211,220,9
+PR,Alvorada do Sul,7321,87,125,9
+PR,Amaporã,4095,42,57,9
+PR,Ampére,13603,249,221,9
+PR,Anahy,2674,11,20,9
+PR,Andirá,17673,300,401,9
+PR,Ângulo,2747,15,31,9
+PR,Antonina,16585,285,440,11
+PR,Antonio Olinto,6690,128,150,9
+PR,Apucarana,86846,4278,5280,11
+PR,Arapongas,82043,3857,5392,15
+PR,Arapoti,18891,551,336,9
+PR,Arapuã,3267,20,34,9
+PR,Araruna,10808,380,311,9
+PR,Araucária,86812,4382,4883,11
+PR,Ariranha do Ivaí,2442,8,27,9
+PR,Assaí,13373,307,329,9
+PR,Assis Chateaubriand,25785,853,875,13
+PR,Astorga,20794,542,671,11
+PR,Atalaia,3624,23,31,9
+PR,Balsa Nova,11061,174,216,9
+PR,Bandeirantes,25716,580,451,13
+PR,Barbosa Ferraz,9217,126,123,9
+PR,Barra do Jacaré,2686,21,29,9
+PR,Barracão,6627,108,291,9
+PR,Bela Vista da Caroba,3368,31,44,9
+PR,Bela Vista do Paraíso,12939,267,321,9
+PR,Bituruna,12579,237,429,9
+PR,Boa Esperança,4029,36,318,9
+PR,Boa Esperança do Iguaçu,2441,12,14,9
+PR,Boa Ventura de São Roque,4892,57,321,9
+PR,Boa Vista da Aparecida,6963,55,69,9
+PR,Bocaiúva do Sul,8594,254,172,9
+PR,Bom Jesus do Sul,3176,32,25,9
+PR,Bom Sucesso,5297,86,113,9
+PR,Bom Sucesso do Sul,2959,27,19,9
+PR,Borrazópolis,6810,118,131,9
+PR,Braganey,4707,68,56,9
+PR,Brasilândia do Sul,3058,30,61,9
+PR,Cafeara,2243,26,38,9
+PR,Cafelândia,11726,252,184,9
+PR,Cafezal do Sul,4042,33,32,9
+PR,Califórnia,7011,125,104,9
+PR,Cambará,18666,451,745,9
+PR,Cambé,63401,3495,4013,10
+PR,Cambira,5385,114,153,9
+PR,Campina da Lagoa,11484,238,844,9
+PR,Campina do Simão,3287,24,56,9
+PR,Campina Grande do Sul,28376,1154,1448,11
+PR,Campo Bonito,3445,33,31,9
+PR,Campo do Tenente,6169,55,71,9
+PR,Campo Largo,81734,4349,4440,11
+PR,Campo Magro,17570,493,501,11
+PR,Campo Mourão,60121,1925,2001,13
+PR,Cândido de Abreu,12110,246,289,11
+PR,Candói,10870,136,172,9
+PR,Cantagalo,9702,142,307,9
+PR,Capanema,15243,266,282,9
+PR,Capitão Leônidas Marques,12038,197,177,9
+PR,Carambeí,15733,565,386,11
+PR,Carlópolis,11662,208,319,9
+PR,Cascavel,206714,9620,8816,21
+PR,Castro,52725,2663,1369,13
+PR,Catanduvas,7287,105,144,9
+PR,Centenário do Sul,9080,150,192,9
+PR,Cerro Azul,13277,207,236,9
+PR,Céu Azul,8919,162,140,9
+PR,Chopinzinho,16070,363,456,9
+PR,Cianorte,56017,2512,1782,10
+PR,Cidade Gaúcha,9457,204,327,9
+PR,Clevelândia,13786,417,184,9
+PR,Colombo,128602,8534,9004,17
+PR,Colorado,18859,433,685,9
+PR,Congonhinhas,6953,72,215,9
+PR,Conselheiro Mairinck,3141,38,50,9
+PR,Contenda,11752,389,319,9
+PR,Corbélia,13769,399,265,11
+PR,Cornélio Procópio,37691,1045,1333,13
+PR,Coronel Domingos Soares,5565,48,59,9
+PR,Coronel Vivida,15795,520,425,9
+PR,Corumbataí do Sul,3732,30,79,9
+PR,Cruz Machado,14154,297,346,11
+PR,Cruzeiro do Iguaçu,3665,32,25,9
+PR,Cruzeiro do Oeste,16375,294,334,11
+PR,Cruzeiro do Sul,4188,56,62,9
+PR,Cruzmaltina,3014,24,50,9
+PR,Curitiba,1289215,51495,96901,38
+PR,Curiúva,11406,309,394,9
+PR,Diamante D'Oeste,3849,29,67,9
+PR,Diamante do Norte,4796,69,68,9
+PR,Diamante do Sul,2803,11,84,9
+PR,Dois Vizinhos,29306,899,476,11
+PR,Douradina,6176,78,148,9
+PR,Doutor Camargo,5016,81,118,9
+PR,Doutor Ulysses,4808,35,229,9
+PR,Enéas Marques,5509,53,78,9
+PR,Engenheiro Beltrão,11144,199,163,9
+PR,Entre Rios do Oeste,3428,30,200,9
+PR,Esperança Nova,1988,6,16,9
+PR,Espigão Alto do Iguaçu,4548,50,48,9
+PR,Farol,2654,30,51,9
+PR,Faxinal,12232,245,138,9
+PR,Fazenda Rio Grande,60521,3289,3071,13
+PR,Fênix,4158,19,73,9
+PR,Fernandes Pinheiro,5654,70,83,9
+PR,Figueira,6984,101,236,9
+PR,Flor da Serra do Sul,4784,13,46,9
+PR,Floraí,4490,54,74,9
+PR,Floresta,5722,56,92,9
+PR,Florestópolis,8549,94,392,9
+PR,Flórida,2399,13,13,9
+PR,Formosa do Oeste,6293,87,94,9
+PR,Foz do Iguaçu,165730,6243,8602,15
+PR,Foz do Jordão,3879,31,70,9
+PR,Francisco Alves,5720,76,145,9
+PR,Francisco Beltrão,61622,2779,1785,13
+PR,General Carneiro,9853,129,362,9
+PR,Godoy Moreira,2945,13,35,9
+PR,Goioerê,22224,376,561,9
+PR,Goioxim,5517,35,31,9
+PR,Grandes Rios,5457,39,308,9
+PR,Guaíra,23133,527,328,11
+PR,Guairaçá,5261,63,108,9
+PR,Guamiranga,6535,151,146,9
+PR,Guapirama,3914,32,191,9
+PR,Guaporema,2009,18,18,9
+PR,Guaraci,4370,47,58,9
+PR,Guaraniaçu,10868,133,188,9
+PR,Guarapuava,119458,6435,5996,21
+PR,Guaraqueçaba,7539,48,82,9
+PR,Guaratuba,27157,471,455,13
+PR,Honório Serpa,3959,52,51,9
+PR,Ibaiti,22681,550,891,9
+PR,Ibema,5264,73,90,9
+PR,Ibiporã,39039,1992,1795,9
+PR,Icaraíma,7282,61,88,9
+PR,Iguaraçu,3716,36,50,9
+PR,Iguatu,2036,16,19,9
+PR,Imbaú,8574,135,136,9
+PR,Imbituva,22084,610,426,11
+PR,Inácio Martins,8211,106,145,9
+PR,Inajá,2785,12,53,9
+PR,Indianópolis,3803,49,65,9
+PR,Ipiranga,10949,241,245,9
+PR,Iporã,11958,161,151,9
+PR,Iracema do Oeste,2538,23,37,9
+PR,Irati,44641,1730,1653,10
+PR,Iretama,8274,139,174,9
+PR,Itaguajé,3755,35,87,9
+PR,Itaipulândia,9021,76,475,9
+PR,Itambaracá,5355,57,91,9
+PR,Itambé,5049,62,94,9
+PR,Itapejara D'Oeste,9095,190,560,9
+PR,Itaperuçu,18252,348,739,11
+PR,Itaúna do Sul,3271,29,56,9
+PR,Ivaí,9981,154,148,9
+PR,Ivaiporã,24550,526,495,9
+PR,Ivaté,5848,65,113,9
+PR,Ivatuba,2439,22,34,9
+PR,Jaboti,4162,52,116,9
+PR,Jacarezinho,31783,881,1001,9
+PR,Jaguapitã,10352,215,222,9
+PR,Jaguariaíva,25950,619,1733,13
+PR,Jandaia do Sul,16647,515,579,9
+PR,Janiópolis,4960,97,173,9
+PR,Japira,4261,56,107,9
+PR,Japurá,7168,115,165,9
+PR,Jardim Alegre,9434,126,141,9
+PR,Jardim Olinda,1417,16,13,9
+PR,Jataizinho,9968,257,211,9
+PR,Jesuítas,7371,105,134,9
+PR,Joaquim Távora,8853,199,234,9
+PR,Jundiaí do Sul,2783,25,40,9
+PR,Juranda,6128,99,100,9
+PR,Jussara,5829,63,91,9
+PR,Kaloré,3841,75,58,9
+PR,Lapa,33419,1423,1131,9
+PR,Laranjal,5080,31,62,9
+PR,Laranjeiras do Sul,24094,356,483,13
+PR,Leópolis,3622,30,67,9
+PR,Lidianópolis,3674,28,59,9
+PR,Lindoeste,4341,46,36,9
+PR,Loanda,16005,331,270,9
+PR,Lobato,3883,19,41,9
+PR,Londrina,353314,21935,24602,19
+PR,Luiziana,5497,68,81,9
+PR,Lunardelli,4352,52,70,9
+PR,Lupionópolis,4179,39,61,9
+PR,Mallet,10605,204,304,9
+PR,Mamborê,11227,188,195,9
+PR,Mandaguaçu,16464,595,555,9
+PR,Mandaguari,27183,1088,1204,9
+PR,Mandirituba,17135,424,421,9
+PR,Manfrinópolis,3059,17,31,9
+PR,Mangueirinha,14001,160,165,11
+PR,Manoel Ribas,10658,123,114,9
+PR,Marechal Cândido Rondon,37834,790,1054,13
+PR,Maria Helena,4702,42,79,9
+PR,Marialva,27916,1113,771,9
+PR,Marilândia do Sul,7223,127,149,9
+PR,Marilena,6232,66,206,9
+PR,Mariluz,8292,101,187,9
+PR,Maringá,261717,6702,12487,15
+PR,Mariópolis,5353,100,83,9
+PR,Maripá,5022,76,83,9
+PR,Marmeleiro,11264,397,273,9
+PR,Marquinho,4019,36,39,9
+PR,Marumbi,3836,49,53,9
+PR,Matelândia,13021,265,242,11
+PR,Matinhos,29417,733,1638,11
+PR,Mato Rico,3231,20,26,9
+PR,Mauá da Serra,7142,81,103,9
+PR,Medianeira,34463,1247,836,9
+PR,Mercedes,4545,38,43,9
+PR,Mirador,2297,12,19,9
+PR,Miraselva,1681,23,41,9
+PR,Missal,8833,85,94,9
+PR,Moreira Sales,9759,140,141,9
+PR,Morretes,15216,297,639,11
+PR,Munhoz de Melo,3473,28,31,9
+PR,Nossa Senhora das Graças,3402,32,43,9
+PR,Nova Aliança do Ivaí,1569,8,11,9
+PR,Nova América da Colina,3285,26,71,9
+PR,Nova Aurora,9817,173,174,9
+PR,Nova Cantu,5631,42,74,9
+PR,Nova Esperança,21263,735,591,9
+PR,Nova Esperança do Sudoeste,4719,32,26,9
+PR,Nova Fátima,6548,105,127,9
+PR,Nova Laranjeiras,7961,69,125,9
+PR,Nova Londrina,10477,224,244,9
+PR,Nova Olímpia,4815,54,210,9
+PR,Nova Prata do Iguaçu,8645,87,413,9
+PR,Nova Santa Bárbara,3463,34,58,9
+PR,Nova Santa Rosa,6638,94,75,9
+PR,Nova Tebas,5843,52,83,9
+PR,Novo Itacolomi,2561,32,34,9
+PR,Ortigueira,18310,204,207,11
+PR,Ourizona,3033,39,75,9
+PR,Ouro Verde do Oeste,4454,62,92,9
+PR,Paiçandu,26914,1152,1165,9
+PR,Palmas,29998,963,507,13
+PR,Palmeira,26308,1110,1118,9
+PR,Palmital,11831,121,125,9
+PR,Palotina,22723,678,512,9
+PR,Paraíso do Norte,9102,161,142,9
+PR,Paranacity,8055,111,142,9
+PR,Paranaguá,92317,3337,5478,19
+PR,Paranapoema,2203,10,22,9
+PR,Paranavaí,62287,1918,1567,10
+PR,Pato Bragado,4248,54,983,9
+PR,Pato Branco,57274,2776,1740,11
+PR,Paula Freitas,4563,80,110,9
+PR,Paulo Frontin,5658,124,241,9
+PR,Peabiru,10657,221,2220,9
+PR,Perobal,5438,77,86,9
+PR,Pérola,8713,189,153,9
+PR,Pérola D'Oeste,5419,49,318,9
+PR,Piên,9443,155,102,9
+PR,Pinhais,76626,3660,4338,17
+PR,Pinhal de São Bento,2288,10,15,9
+PR,Pinhalão,5688,56,115,9
+PR,Pinhão,24047,401,364,13
+PR,Piraí do Sul,19221,738,457,9
+PR,Piraquara,56695,3297,2636,13
+PR,Pitanga,26584,366,306,13
+PR,Pitangueiras,2678,31,49,9
+PR,Planaltina do Paraná,3506,27,55,9
+PR,Planalto,10812,128,136,9
+PR,Ponta Grossa,222716,9161,16612,23
+PR,Pontal do Paraná,19226,397,608,11
+PR,Porecatu,9232,119,116,9
+PR,Porto Amazonas,3817,53,55,9
+PR,Porto Barreiro,3079,13,20,9
+PR,Porto Rico,2482,11,26,9
+PR,Porto Vitória,3321,45,47,9
+PR,Prado Ferreira,2946,20,52,9
+PR,Pranchita,4690,81,76,9
+PR,Presidente Castelo Branco,4162,67,57,9
+PR,Primeiro de Maio,8693,115,202,9
+PR,Prudentópolis,38103,1107,1377,13
+PR,Quarto Centenário,3912,44,36,9
+PR,Quatiguá,6501,107,159,9
+PR,Quatro Barras,13940,428,455,9
+PR,Quatro Pontes,3564,31,374,9
+PR,Quedas do Iguaçu,23813,336,568,13
+PR,Querência do Norte,8623,138,174,9
+PR,Quinta do Sol,4633,50,66,9
+PR,Quitandinha,13344,227,217,9
+PR,Ramilândia,3653,27,83,9
+PR,Rancho Alegre,3309,29,77,9
+PR,Rancho Alegre D'Oeste,2612,18,31,9
+PR,Realeza,13642,416,301,9
+PR,Rebouças,12397,228,178,9
+PR,Renascença,5172,93,90,9
+PR,Reserva,20147,472,435,11
+PR,Reserva do Iguaçu,5893,29,47,9
+PR,Ribeirão Claro,9454,148,189,9
+PR,Ribeirão do Pinhal,11456,204,224,9
+PR,Rio Azul,11205,207,303,9
+PR,Rio Bom,3035,40,64,9
+PR,Rio Bonito do Iguaçu,10522,114,103,9
+PR,Rio Branco do Ivaí,3663,31,65,9
+PR,Rio Branco do Sul,23747,528,334,11
+PR,Rio Negro,24141,849,742,9
+PR,Rolândia,46746,2442,2329,10
+PR,Roncador,8898,88,188,9
+PR,Rondon,7515,85,124,9
+PR,Rosário do Ivaí,5149,46,96,9
+PR,Sabáudia,5786,145,136,9
+PR,Salgado Filho,3313,39,29,9
+PR,Salto do Itararé,4549,37,111,9
+PR,Salto do Lontra,10841,211,122,9
+PR,Santa Amélia,3258,39,47,9
+PR,Santa Cecília do Pavão,3164,36,91,9
+PR,Santa Cruz de Monte Castelo,6829,85,115,9
+PR,Santa Fé,8539,100,206,9
+PR,Santa Helena,20444,234,205,9
+PR,Santa Inês,1758,15,24,9
+PR,Santa Isabel do Ivaí,7268,89,112,9
+PR,Santa Izabel do Oeste,8758,312,216,9
+PR,Santa Lúcia,3349,30,70,9
+PR,Santa Maria do Oeste,9132,64,136,9
+PR,Santa Mariana,10382,156,260,9
+PR,Santa Mônica,2923,18,145,9
+PR,Santa Tereza do Oeste,8359,127,394,9
+PR,Santa Terezinha de Itaipu,16353,387,384,9
+PR,Santana do Itararé,4728,71,59,9
+PR,Santo Antônio da Platina,32391,1323,1198,9
+PR,Santo Antonio do Caiuá,2498,12,23,9
+PR,Santo Antônio do Paraíso,2376,18,26,9
+PR,Santo Antônio do Sudoeste,14644,292,188,11
+PR,Santo Inácio,4653,36,87,9
+PR,São Carlos do Ivaí,5248,61,85,9
+PR,São Jerônimo da Serra,9166,94,471,9
+PR,São João,8662,132,148,9
+PR,São João do Caiuá,5008,43,103,9
+PR,São João do Ivaí,9506,120,162,9
+PR,São João do Triunfo,11123,218,149,9
+PR,São Jorge D'Oeste,8050,90,117,9
+PR,São Jorge do Ivaí,4727,43,56,9
+PR,São Jorge do Patrocínio,5180,28,56,9
+PR,São José da Boa Vista,4935,79,145,9
+PR,São José das Palmeiras,3462,28,34,9
+PR,São José dos Pinhais,170706,9857,13905,21
+PR,São Manoel do Paraná,1998,9,18,9
+PR,São Mateus do Sul,32779,1027,1038,9
+PR,São Miguel do Iguaçu,21819,305,426,9
+PR,São Pedro do Iguaçu,4933,65,99,9
+PR,São Pedro do Ivaí,7494,112,170,9
+PR,São Pedro do Paraná,2438,32,61,9
+PR,São Sebastião da Amoreira,7132,102,196,9
+PR,São Tomé,4856,73,59,9
+PR,Sapopema,5520,100,135,9
+PR,Sarandi,64431,3330,2510,10
+PR,Saudade do Iguaçu,4828,36,46,9
+PR,Sengés,14244,352,1079,11
+PR,Serranópolis do Iguaçu,4328,47,67,9
+PR,Sertaneja,5139,43,69,9
+PR,Sertanópolis,13475,352,1239,9
+PR,Siqueira Campos,16053,401,446,9
+PR,Sulina,2983,22,77,9
+PR,Tamarana,8245,129,381,9
+PR,Tamboara,4304,69,109,9
+PR,Tapejara,11942,183,183,9
+PR,Tapira,4838,42,77,9
+PR,Teixeira Soares,8035,120,205,9
+PR,Telêmaco Borba,50805,1569,1142,13
+PR,Terra Boa,12802,372,394,9
+PR,Terra Rica,12302,237,215,9
+PR,Terra Roxa,13268,271,629,9
+PR,Tibagi,15105,339,192,9
+PR,Tijucas do Sul,10789,249,194,9
+PR,Toledo,89820,3644,3935,19
+PR,Tomazina,6811,92,128,9
+PR,Três Barras do Paraná,9175,115,421,9
+PR,Tunas do Paraná,4867,38,82,9
+PR,Tuneiras do Oeste,7211,72,80,9
+PR,Tupãssi,6477,83,126,9
+PR,Turvo,10843,162,134,9
+PR,Ubiratã,17379,391,327,9
+PR,Umuarama,77467,2860,2498,10
+PR,União da Vitória,41776,1927,2722,13
+PR,Uniflor,2203,3,8,9
+PR,Uraí,8692,156,222,9
+PR,Ventania,7556,99,96,9
+PR,Vera Cruz do Oeste,7026,121,343,9
+PR,Verê,6836,76,64,9
+PR,Virmond,3592,28,201,9
+PR,Vitorino,5601,71,79,9
+PR,Wenceslau Braz,15178,265,250,9
+PR,Xambrê,5506,54,73,9

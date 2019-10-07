@@ -1,0 +1,296 @@
+uf,name,voters,votos_brancos,votos_nulos,vagas_vereadores
+SC,Abdon Batista,2387,14,29,9
+SC,Abelardo Luz,13198,257,230,11
+SC,Agrolândia,7793,154,264,9
+SC,Agronômica,4122,43,81,9
+SC,Água Doce,5651,70,67,9
+SC,Águas de Chapecó,4839,74,69,9
+SC,Águas Frias,2374,7,22,9
+SC,Águas Mornas,5526,82,137,9
+SC,Alfredo Wagner,7771,63,132,9
+SC,Alto Bela Vista,2026,6,33,9
+SC,Anchieta,5314,72,110,9
+SC,Angelina,4820,50,68,9
+SC,Anita Garibaldi,7730,139,126,9
+SC,Anitápolis,2886,40,41,9
+SC,Antônio Carlos,7421,51,132,9
+SC,Apiúna,8282,120,156,9
+SC,Arabutã,3826,16,46,9
+SC,Araquari,19596,387,376,13
+SC,Araranguá,48260,1344,1076,15
+SC,Armazém,6378,47,86,9
+SC,Arroio Trinta,3140,22,39,9
+SC,Arvoredo,2304,11,18,9
+SC,Ascurra,6305,173,151,9
+SC,Atalanta,2903,19,28,9
+SC,Aurora,4803,80,93,9
+SC,Balneário Arroio do Silva,10333,167,217,9
+SC,Balneário Barra do Sul,9607,91,202,9
+SC,Balneário Camboriú,91438,3303,3501,19
+SC,Balneário Gaivota,8161,125,188,9
+SC,Balneário Piçarras,15722,313,290,11
+SC,Balneário Rincão,10981,146,360,9
+SC,Bandeirante,2810,32,42,9
+SC,Barra Bonita,1931,23,28,9
+SC,Barra Velha,21334,531,627,9
+SC,Bela Vista do Toldo,5098,62,53,9
+SC,Belmonte,2486,18,27,9
+SC,Benedito Novo,8182,164,166,9
+SC,Biguaçu,45568,1767,1867,15
+SC,Blumenau,230167,9266,19199,15
+SC,Bocaina do Sul,3139,19,56,9
+SC,Bom Jardim da Serra,3658,41,60,9
+SC,Bom Jesus,2473,19,19,9
+SC,Bom Jesus do Oeste,1917,15,19,9
+SC,Bom Retiro,7142,98,145,9
+SC,Bombinhas,13262,216,312,9
+SC,Botuverá,4253,55,89,9
+SC,Braço do Norte,22836,325,311,11
+SC,Braço do Trombudo,3325,14,25,9
+SC,Brunópolis,3046,32,103,9
+SC,Brusque,84382,3789,4889,15
+SC,Caçador,51645,2315,1254,13
+SC,Caibi,4991,148,303,9
+SC,Calmon,3510,21,32,9
+SC,Camboriú,42594,1145,1289,15
+SC,Campo Alegre,9480,163,186,9
+SC,Campo Belo do Sul,6140,88,88,9
+SC,Campo Erê,7362,136,111,9
+SC,Campos Novos,25466,847,527,9
+SC,Canelinha,9235,160,167,9
+SC,Canoinhas,41734,1358,958,10
+SC,Capão Alto,3080,21,25,9
+SC,Capinzal,16285,519,380,9
+SC,Capivari de Baixo,17148,322,412,11
+SC,Catanduvas,7423,129,117,9
+SC,Caxambu do Sul,4510,37,42,9
+SC,Celso Ramos,2476,13,28,9
+SC,Cerro Negro,3167,22,49,9
+SC,Chapadão do Lageado,2416,5,18,9
+SC,Chapecó,140526,6574,4380,21
+SC,Cocal do Sul,13481,279,328,9
+SC,Concórdia,56152,1631,1332,13
+SC,Cordilheira Alta,3970,93,104,9
+SC,Coronel Freitas,8208,152,115,9
+SC,Coronel Martins,2152,12,20,9
+SC,Correia Pinto,11970,179,160,9
+SC,Corupá,11612,257,298,9
+SC,Criciúma,141667,5728,4802,17
+SC,Cunha Porã,8835,127,509,9
+SC,Cunhataí,1759,5,11,9
+SC,Curitibanos,30185,1019,966,13
+SC,Descanso,6911,109,122,9
+SC,Dionísio Cerqueira,11885,152,148,9
+SC,Dona Emma,3109,15,38,9
+SC,Doutor Pedrinho,2946,31,31,9
+SC,Entre Rios,2948,18,25,9
+SC,Ermo,3023,22,31,9
+SC,Erval Velho,3906,45,64,9
+SC,Faxinal dos Guedes,8548,311,263,9
+SC,Flor do Sertão,1786,11,42,9
+SC,Florianópolis,316261,9674,19767,23
+SC,Formosa do Sul,2337,14,18,9
+SC,Forquilhinha,18631,344,258,9
+SC,Fraiburgo,27173,784,474,11
+SC,Frei Rogério,2350,14,34,9
+SC,Galvão,2995,49,43,9
+SC,Garopaba,17078,261,371,9
+SC,Garuva,11203,219,192,9
+SC,Gaspar,44336,1515,1536,13
+SC,Governador Celso Ramos,12958,130,340,9
+SC,Grão-Pará,5789,43,69,9
+SC,Gravatal,8767,92,141,9
+SC,Guabiruba,14575,414,797,9
+SC,Guaraciaba,8796,100,109,9
+SC,Guaramirim,28467,962,764,9
+SC,Guarujá do Sul,4056,54,64,9
+SC,Guatambú,5252,72,70,9
+SC,Herval D'Oeste,16458,515,364,11
+SC,Ibiam,1859,10,16,9
+SC,Ibicaré,3049,16,29,9
+SC,Ibirama,14530,403,386,11
+SC,Içara,39027,1201,1099,15
+SC,Ilhota,10958,170,248,9
+SC,Imaruí,10345,130,168,9
+SC,Imbituba,34751,722,1035,13
+SC,Imbuia,4608,32,49,9
+SC,Indaial,43174,1941,2123,13
+SC,Iomerê,2856,25,31,9
+SC,Ipira,3773,33,67,9
+SC,Iporã do Oeste,7027,111,88,9
+SC,Ipuaçu,5081,71,53,9
+SC,Ipumirim,5917,50,50,9
+SC,Iraceminha,3853,19,26,9
+SC,Irani,7303,109,96,9
+SC,Irati,1945,11,21,9
+SC,Irineópolis,7961,78,312,9
+SC,Itá,6021,56,92,9
+SC,Itaiópolis,16303,522,422,9
+SC,Itajaí,143131,5477,5486,21
+SC,Itapema,37778,977,1197,13
+SC,Itapiranga,11991,198,176,11
+SC,Itapoá,13788,240,310,9
+SC,Ituporanga,17876,363,794,11
+SC,Jaborá,3815,30,46,9
+SC,Jacinto Machado,9150,75,106,9
+SC,Jaguaruna,14360,193,248,11
+SC,Jaraguá do Sul,114349,6446,5993,11
+SC,Jardinópolis,1580,5,8,9
+SC,Joaçaba,21841,589,463,9
+SC,Joinville,372551,13099,21963,19
+SC,José Boiteux,4164,35,70,9
+SC,Jupiá,2050,18,20,9
+SC,Lacerdópolis,2088,26,34,9
+SC,Lages,122076,4350,3268,16
+SC,Laguna,34257,798,880,13
+SC,Lajeado Grande,1760,25,17,9
+SC,Laurentino,5562,62,91,9
+SC,Lauro Müller,12413,135,539,9
+SC,Lebon Régis,9166,178,154,9
+SC,Leoberto Leal,3084,16,19,9
+SC,Lindóia do Sul,3732,36,63,9
+SC,Lontras,8294,178,425,9
+SC,Luís Alves,8824,127,183,9
+SC,Luzerna,4902,53,149,9
+SC,Macieira,1958,21,25,9
+SC,Mafra,42678,2192,1863,13
+SC,Major Gercino,3060,16,16,9
+SC,Major Vieira,5897,68,89,9
+SC,Maracajá,6156,54,75,9
+SC,Maravilha,18242,449,431,11
+SC,Marema,2202,12,9,9
+SC,Massaranduba,12589,242,336,9
+SC,Matos Costa,2603,16,27,9
+SC,Meleiro,5936,54,74,9
+SC,Mirim Doce,2410,13,34,9
+SC,Modelo,3387,37,41,9
+SC,Mondaí,7587,69,98,9
+SC,Monte Carlo,7371,118,137,9
+SC,Monte Castelo,7052,79,107,9
+SC,Morro da Fumaça,12993,221,208,9
+SC,Morro Grande,3077,14,35,9
+SC,Navegantes,46320,1874,1464,10
+SC,Nova Erechim,3827,43,32,9
+SC,Nova Itaberaba,4024,40,53,9
+SC,Nova Trento,9932,173,193,9
+SC,Nova Veneza,11878,158,201,9
+SC,Novo Horizonte,2555,24,28,9
+SC,Orleans,18519,382,426,11
+SC,Otacílio Costa,13335,129,127,11
+SC,Ouro,6001,109,188,9
+SC,Ouro Verde,2178,22,29,9
+SC,Paial,1935,15,9,9
+SC,Painel,2563,40,53,9
+SC,Palhoça,114060,6180,6993,17
+SC,Palma Sola,6056,66,41,9
+SC,Palmeira,2898,18,30,9
+SC,Palmitos,12796,243,301,11
+SC,Papanduva,14905,298,180,9
+SC,Paraíso,3774,48,150,9
+SC,Passo de Torres,5881,106,116,9
+SC,Passos Maia,3561,32,37,9
+SC,Paulo Lopes,5805,79,92,9
+SC,Pedras Grandes,4052,19,40,9
+SC,Penha,20972,384,419,11
+SC,Peritiba,2912,6,13,9
+SC,Pescaria Brava,7655,68,319,9
+SC,Petrolândia,5190,42,74,9
+SC,Pinhalzinho,13911,305,246,11
+SC,Pinheiro Preto,2776,33,47,9
+SC,Piratuba,4773,26,92,9
+SC,Planalto Alegre,2904,57,70,9
+SC,Pomerode,23398,734,1556,9
+SC,Ponte Alta,4212,51,46,9
+SC,Ponte Alta do Norte,2865,19,39,9
+SC,Ponte Serrada,8755,191,179,9
+SC,Porto Belo,12870,300,323,11
+SC,Porto União,25464,937,812,11
+SC,Pouso Redondo,11218,183,131,9
+SC,Praia Grande,6142,58,91,9
+SC,Presidente Castelo Branco,1611,5,10,9
+SC,Presidente Getúlio,12509,237,257,11
+SC,Presidente Nereu,2291,13,13,9
+SC,Princesa,2570,20,17,9
+SC,Quilombo,8549,124,86,9
+SC,Rancho Queimado,2782,23,50,9
+SC,Rio das Antas,5805,70,95,9
+SC,Rio do Campo,5154,23,54,9
+SC,Rio do Oeste,5853,78,82,9
+SC,Rio do Sul,48381,1665,1732,10
+SC,Rio dos Cedros,8348,120,189,9
+SC,Rio Fortuna,4413,44,32,9
+SC,Rio Negrinho,31838,787,1378,9
+SC,Rio Rufino,2381,21,27,9
+SC,Riqueza,4041,31,52,9
+SC,Rodeio,9171,189,195,9
+SC,Romelândia,4370,72,56,9
+SC,Salete,6124,49,121,9
+SC,Saltinho,3344,48,30,9
+SC,Salto Veloso,3692,49,87,9
+SC,Sangão,8435,81,69,9
+SC,Santa Cecília,12817,266,156,11
+SC,Santa Helena,2340,8,17,9
+SC,Santa Rosa de Lima,2002,7,23,9
+SC,Santa Rosa do Sul,7006,85,55,9
+SC,Santa Terezinha,6864,80,64,9
+SC,Santa Terezinha do Progresso,2555,20,38,9
+SC,Santiago do Sul,1520,4,14,9
+SC,Santo Amaro da Imperatriz,16564,435,907,11
+SC,São Bento do Sul,60414,2884,2295,10
+SC,São Bernardino,2439,32,38,9
+SC,São Bonifácio,2641,20,22,9
+SC,São Carlos,8028,107,129,9
+SC,São Cristóvão do Sul,3623,44,45,9
+SC,São Domingos,7464,120,122,9
+SC,São Francisco do Sul,35827,746,809,9
+SC,São João Batista,20668,398,575,11
+SC,São João do Itaperiú,3543,28,35,9
+SC,São João do Oeste,5137,83,129,9
+SC,São João do Sul,6341,116,97,9
+SC,São Joaquim,19049,592,386,9
+SC,São José,156617,9996,13856,19
+SC,São José do Cedro,11284,194,164,9
+SC,São José do Cerrito,7260,69,87,9
+SC,São Lourenço do Oeste,17759,495,371,9
+SC,São Ludgero,8568,148,93,9
+SC,São Martinho,3259,15,33,9
+SC,São Miguel da Boa Vista,1768,10,17,9
+SC,São Miguel do Oeste,29221,1056,909,13
+SC,São Pedro de Alcântara,3759,53,83,9
+SC,Saudades,7352,92,99,9
+SC,Schroeder,12710,347,331,9
+SC,Seara,14063,250,253,11
+SC,Serra Alta,2772,31,36,9
+SC,Siderópolis,11149,240,210,9
+SC,Sombrio,21379,421,362,11
+SC,Sul Brasil,2513,16,21,9
+SC,Taió,13628,222,344,9
+SC,Tangará,6901,191,103,9
+SC,Tigrinhos,2033,26,71,9
+SC,Tijucas,25954,823,1486,13
+SC,Timbé do Sul,4626,35,63,9
+SC,Timbó,30508,1167,1458,9
+SC,Timbó Grande,5877,35,84,9
+SC,Três Barras,14779,214,151,11
+SC,Treviso,4182,20,31,9
+SC,Treze de Maio,6399,48,77,9
+SC,Treze Tílias,5571,82,80,9
+SC,Trombudo Central,5393,85,105,9
+SC,Tubarão,76058,2089,2534,17
+SC,Tunápolis,3829,39,65,9
+SC,Turvo,10080,97,133,9
+SC,União do Oeste,2653,13,21,9
+SC,Urubici,8180,113,123,9
+SC,Urupema,2308,25,23,9
+SC,Urussanga,17336,299,328,9
+SC,Vargeão,2960,32,42,9
+SC,Vargem,2954,22,837,9
+SC,Vargem Bonita,4443,36,39,9
+SC,Vidal Ramos,5303,27,61,9
+SC,Videira,36415,1450,1233,11
+SC,Vitor Meireles,4506,27,53,9
+SC,Witmarsum,3340,27,50,9
+SC,Xanxerê,33788,1446,1046,9
+SC,Xavantina,3632,20,32,9
+SC,Xaxim,21081,664,540,11
+SC,Zortéa,2772,16,28,9

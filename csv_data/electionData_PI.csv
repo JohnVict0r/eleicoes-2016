@@ -1,0 +1,225 @@
+uf,name,voters,votos_brancos,votos_nulos,vagas_vereadores
+PI,Acauã,5578,38,119,9
+PI,Agricolândia,5306,68,121,9
+PI,Água Branca,14925,114,164,11
+PI,Alagoinha do Piauí,6142,50,160,9
+PI,Alegrete do Piauí,4543,22,116,9
+PI,Alto Longá,10826,51,208,9
+PI,Altos,28721,496,727,13
+PI,Alvorada do Gurguéia,4320,20,127,9
+PI,Amarante,13548,143,292,11
+PI,Angical do Piauí,6922,61,114,9
+PI,Anísio de Abreu,6052,32,146,9
+PI,Antônio Almeida,2734,14,62,9
+PI,Aroazes,5774,45,129,9
+PI,Aroeiras do Itaim,3191,20,131,9
+PI,Arraial,4237,24,88,9
+PI,Assunção do Piauí,5813,43,556,9
+PI,Avelino Lopes,9118,60,177,9
+PI,Baixa Grande do Ribeiro,8984,42,188,9
+PI,Barra D'Alcântara,3413,9,87,9
+PI,Barras,32288,382,847,13
+PI,Barreiras do Piauí,3329,30,86,9
+PI,Barro Duro,6194,41,134,9
+PI,Batalha,19662,237,562,11
+PI,Bela Vista do Piauí,3210,12,44,9
+PI,Belém do Piauí,2961,14,73,9
+PI,Beneditinos,9199,57,215,9
+PI,Bertolínia,4690,45,306,9
+PI,Betânia do Piauí,5458,40,164,9
+PI,Boa Hora,5261,42,159,9
+PI,Bocaina,5528,26,51,9
+PI,Bom Jesus,15265,156,328,11
+PI,Bom Princípio do Piauí,5406,33,191,9
+PI,Bonfim do Piauí,4527,27,159,9
+PI,Boqueirão do Piauí,5478,43,98,9
+PI,Brasileira,6494,30,160,10
+PI,Brejo do Piauí,3274,9,171,9
+PI,Buriti dos Lopes,14380,125,564,11
+PI,Buriti dos Montes,5453,16,119,9
+PI,Cabeceiras do Piauí,8263,47,149,9
+PI,Cajazeiras do Piauí,2902,18,77,9
+PI,Cajueiro da Praia,6063,53,121,9
+PI,Caldeirão Grande do Piauí,4906,35,143,9
+PI,Campinas do Piauí,4624,21,133,9
+PI,Campo Alegre do Fidalgo,4553,16,77,9
+PI,Campo Grande do Piauí,4959,43,116,9
+PI,Campo Largo do Piauí,5347,42,94,9
+PI,Campo Maior,31790,430,879,13
+PI,Canavieira,3552,28,51,9
+PI,Canto do Buriti,13808,171,598,11
+PI,Capitão de Campos,9841,87,322,9
+PI,Capitão Gervásio Oliveira,3613,23,96,9
+PI,Caracol,8062,43,131,9
+PI,Caraúbas do Piauí,4388,18,169,9
+PI,Caridade do Piauí,4767,23,105,9
+PI,Castelo do Piauí,14214,161,330,13
+PI,Caxingó,4697,33,115,9
+PI,Cocal,21698,195,675,11
+PI,Cocal de Telha,4725,34,159,9
+PI,Cocal dos Alves,5385,29,111,9
+PI,Coivaras,4384,24,84,9
+PI,Colônia do Gurguéia,5415,36,81,9
+PI,Colônia do Piauí,5518,33,177,9
+PI,Conceição do Canindé,4697,29,108,9
+PI,Coronel José Dias,4251,24,72,9
+PI,Corrente,17582,205,731,11
+PI,Cristalândia do Piauí,5658,49,116,9
+PI,Cristino Castro,7949,54,216,9
+PI,Curimatá,8645,75,148,9
+PI,Currais,4909,33,93,9
+PI,Curral Novo do Piauí,4127,34,117,9
+PI,Curralinhos,4518,30,87,9
+PI,Demerval Lobão,11606,115,261,9
+PI,Dirceu Arcoverde,5091,27,99,9
+PI,Dom Expedito Lopes,5500,42,104,9
+PI,Dom Inocêncio,6243,33,184,9
+PI,Domingos Mourão,3192,16,59,9
+PI,Elesbão Veloso,11801,187,393,9
+PI,Eliseu Martins,4062,19,99,9
+PI,Esperantina,26866,318,651,13
+PI,Fartura do Piauí,3704,29,100,9
+PI,Flores do Piauí,4399,11,153,9
+PI,Floresta do Piauí,2266,11,66,9
+PI,Floriano,42006,525,683,14
+PI,Francinópolis,4705,54,131,9
+PI,Francisco Ayres,4603,9,72,9
+PI,Francisco Macedo,2693,17,68,9
+PI,Francisco Santos,7342,67,186,9
+PI,Fronteiras,9886,58,167,9
+PI,Geminiano,5219,51,127,9
+PI,Gilbués,8066,55,181,9
+PI,Guadalupe,8877,72,156,9
+PI,Guaribas,4892,21,77,9
+PI,Hugo Napoleão,4191,12,69,9
+PI,Ilha Grande,7415,83,184,9
+PI,Inhuma,11461,133,293,11
+PI,Ipiranga do Piauí,7709,50,173,9
+PI,Isaías Coelho,6450,29,218,9
+PI,Itainópolis,9469,110,230,9
+PI,Itaueira,9100,96,286,9
+PI,Jacobina do Piauí,4856,41,121,9
+PI,Jaicós,13513,136,776,11
+PI,Jardim do Mulato,4096,25,45,9
+PI,Jatobá do Piauí,5207,36,128,9
+PI,Jerumenha,4764,40,59,9
+PI,João Costa,3257,11,105,9
+PI,Joaquim Pires,12015,102,449,9
+PI,Joca Marques,4154,33,159,9
+PI,José de Freitas,29789,434,654,13
+PI,Juazeiro do Piauí,4942,25,110,9
+PI,Júlio Borges,4962,22,83,9
+PI,Jurema,4049,13,188,9
+PI,Lagoa Alegre,6691,41,117,9
+PI,Lagoa de São Francisco,4528,17,123,9
+PI,Lagoa do Barro do Piauí,4152,31,148,9
+PI,Lagoa do Piauí,4046,33,73,9
+PI,Lagoa do Sítio,3697,19,154,9
+PI,Lagoinha do Piauí,2754,16,39,9
+PI,Landri Sales,4314,27,153,9
+PI,Luis Correia,23137,245,1189,11
+PI,Luzilândia,17480,224,702,11
+PI,Madeiro,5651,40,181,9
+PI,Manoel Emídio,4105,21,90,9
+PI,Marcolândia,6841,57,167,9
+PI,Marcos Parente,4090,33,69,9
+PI,Massapê do Piauí,5993,38,196,9
+PI,Matias Olímpio,8672,97,142,9
+PI,Miguel Alves,21678,323,634,13
+PI,Miguel Leão,1516,6,32,9
+PI,Milton Brandão,5013,23,208,9
+PI,Monsenhor Gil,10010,72,341,9
+PI,Monsenhor Hipólito,6881,30,159,9
+PI,Monte Alegre do Piauí,8829,40,157,9
+PI,Morro Cabeça no Tempo,4082,30,126,9
+PI,Morro do Chapéu do Piauí,4762,43,164,9
+PI,Murici dos Portelas,6326,61,184,9
+PI,Nazaré do Piauí,6914,45,141,9
+PI,Nazária,10190,89,200,9
+PI,Nossa Senhora de Nazaré,4570,33,201,9
+PI,Nossa Senhora dos Remédios,7509,51,463,9
+PI,Nova Santa Rita,3824,10,67,9
+PI,Novo Oriente do Piauí,4766,43,195,9
+PI,Novo Santo Antônio,3780,15,82,9
+PI,Oeiras,26218,307,580,13
+PI,Olho D'Água do Piauí,2431,18,51,9
+PI,Padre Marcos,6217,43,125,9
+PI,Paes Landim,3825,17,77,9
+PI,Pajeú do Piauí,3042,21,81,9
+PI,Palmeira do Piauí,4974,31,85,9
+PI,Palmeirais,10843,72,579,9
+PI,Paquetá,4095,16,171,9
+PI,Parnaguá,7241,53,154,9
+PI,Parnaíba,98336,2226,2734,17
+PI,Passagem Franca do Piauí,4152,23,70,9
+PI,Patos do Piauí,5697,47,224,9
+PI,Pau D'Arco do Piauí,4466,32,66,9
+PI,Paulistana,15951,130,600,11
+PI,Pavussu,3967,12,86,9
+PI,Pedro II,27317,369,490,13
+PI,Pedro Laurentino,2800,9,45,9
+PI,Picos,49001,571,1017,15
+PI,Pimenteiras,9561,43,243,9
+PI,Pio Ix,14425,101,565,11
+PI,Piracuruca,22268,224,486,11
+PI,Piripiri,47992,961,1620,15
+PI,Porto,9161,89,289,9
+PI,Porto Alegre do Piauí,1788,7,64,9
+PI,Prata do Piauí,3568,18,117,9
+PI,Queimada Nova,6998,56,124,9
+PI,Redenção do Gurguéia,5850,43,103,9
+PI,Regeneração,13007,153,287,9
+PI,Riacho Frio,4438,24,111,9
+PI,Ribeira do Piauí,3693,12,89,9
+PI,Ribeiro Gonçalves,5358,23,178,9
+PI,Rio Grande do Piauí,5995,53,157,9
+PI,Santa Cruz do Piauí,5422,40,486,9
+PI,Santa Cruz dos Milagres,3761,17,68,9
+PI,Santa Filomena,4925,50,163,9
+PI,Santa Luz,4480,37,137,9
+PI,Santa Rosa do Piauí,3954,19,114,9
+PI,Santana do Piauí,3469,23,116,9
+PI,Santo Antônio de Lisboa,5481,30,164,9
+PI,Santo Antônio dos Milagres,1857,21,30,9
+PI,Santo Inácio do Piauí,3031,15,81,9
+PI,São Braz do Piauí,3465,23,88,9
+PI,São Félix do Piauí,3979,16,93,9
+PI,São Francisco de Assis do Piauí,4430,27,143,9
+PI,São Francisco do Piauí,5121,18,87,9
+PI,São Gonçalo do Gurguéia,2419,9,66,9
+PI,São Gonçalo do Piauí,4743,24,112,9
+PI,São João da Canabrava,5191,12,110,9
+PI,São João da Fronteira,4247,20,125,9
+PI,São João da Serra,5613,59,142,9
+PI,São João da Varjota,3542,19,95,9
+PI,São João do Arraial,6854,62,146,9
+PI,São João do Piauí,14222,137,522,11
+PI,São José do Divino,4350,36,88,9
+PI,São José do Peixe,3441,36,112,9
+PI,São José do Piauí,5198,22,176,9
+PI,São Julião,5452,0,0,9
+PI,São Lourenço do Piauí,4281,30,114,9
+PI,São Luis do Piauí,2478,3,40,9
+PI,São Miguel da Baixa Grande,2542,9,66,9
+PI,São Miguel do Fidalgo,2326,6,71,9
+PI,São Miguel do Tapuio,13716,92,446,11
+PI,São Pedro do Piauí,11310,105,242,9
+PI,São Raimundo Nonato,20917,282,451,13
+PI,Sebastião Barros,3731,28,103,9
+PI,Sebastião Leal,3570,30,104,9
+PI,Sigefredo Pacheco,7269,61,120,9
+PI,Simões,11877,227,322,9
+PI,Simplício Mendes,9656,72,203,9
+PI,Socorro do Piauí,4596,13,91,9
+PI,Sussuapara,5768,47,174,9
+PI,Tamboril do Piauí,2341,16,95,9
+PI,Tanque do Piauí,2566,16,74,9
+PI,Teresina,531953,13396,16779,29
+PI,União,30987,462,708,13
+PI,Uruçuí,15345,167,364,11
+PI,Valença do Piauí,14565,166,477,11
+PI,Várzea Branca,3914,30,113,9
+PI,Várzea Grande,4116,16,110,9
+PI,Vera Mendes,3531,33,143,9
+PI,Vila Nova do Piauí,2895,13,78,9
+PI,Wall Ferraz,3896,22,169,9
