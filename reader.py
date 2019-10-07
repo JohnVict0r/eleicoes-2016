@@ -1,13 +1,34 @@
-import csv,json
+from os import listdir
+import csv, json
 
-with open('dados/citys_by_letter_results.json', encoding='utf-8') as arq:
-    citys_by_letter_results = json.load(arq)
+if __name__ == '__main__':
+    # Converte os dados de todos os estados 
+    print('Working: ', end='')
+    for file in sorted(listdir('./data/')):
+        print('#', end='')
+        
+        with open(f'./data/{file}', encoding='utf-8') as arq:
+            cities_by_letter_results = json.load(arq)
 
-with open('dados/citys_results.csv', 'w') as arq_csv:
-    fieldnames=['name','voters', 'votos_brancos', 'votos_nulos', 'vagas_vereadores', 'url']
-    writer = csv.DictWriter(arq_csv, fieldnames=fieldnames)
-    writer.writeheader()
+        with open(f"./csv_data/electionData_{file.split('_')[1].split('.')[0]}.csv", 'w') as arq_csv:
+            fieldnames = [
+                'uf', 'name', 'voters', 
+                'votos_brancos', 'votos_nulos', 
+                'vagas_vereadores'
+            ]
 
-    for citys_by_letter in citys_by_letter_results.values():
-        for x, y in citys_by_letter['citys'].items():
-            writer.writerow({'name': x, 'voters': y['voters'], 'votos_brancos': y['votos_brancos'], 'votos_nulos': y['votos_nulos'], 'vagas_vereadores': y['vagas_vereadores'], 'url': y['url']})
+            writer = csv.DictWriter(arq_csv, fieldnames=fieldnames)
+            writer.writeheader()
+
+            for city in cities_by_letter_results.values():
+                for name, data in city['citys'].items():
+                    writer.writerow({
+                        'uf': file.split('_')[1].split('.')[0],
+                        'name': name, 
+                        'voters': data['voters'], 
+                        'votos_brancos': data['votos_brancos'], 
+                        'votos_nulos': data['votos_nulos'], 
+                        'vagas_vereadores': data['vagas_vereadores']
+                    })
+
+    print('\nDone!')
